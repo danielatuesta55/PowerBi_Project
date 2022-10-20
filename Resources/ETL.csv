@@ -1,0 +1,631 @@
+Unique_ID,Date_Taken,Time_Taken,Time_Spent,Q1_Role_Title?,Q2_switch_careers?,Q3_Yearly_Salary,Q4_Industry,Q5_Programming_Language,Q6_Salary_Satisfaction,Q7_Work/Life_Balance_Satisfaction,Q8_Coworkers_Satisfaction,Q9_Management_Satisfaction,Q10_Upward_Mobility_Satisfaction,Q11_Learning_Opportunities_Satisfaction,Q12_Difficulty_Level_Entry_to_Data,Q13_Most_Important_Aspect_New_Job,Q14_Gender,Q15_Age,Q16_Country_of_Recidency,Q17_Education_Level,Q18_Ethnicity
+62a33b3db4da29969c62df3d,6/10/2022,8:38,0:00:44,Data Analyst,Yes,125000,Healthcare,Python,9.0,9.0,7.0,5.0,5.0,7.0,Very Difficult,Remote Work,Male,26,US,No Awnser,White or Caucasian
+62a33ba1bae91e4b8b82e35c,6/10/2022,8:40,0:01:30,Data Analyst,No,65000,Finance,R,1.0,2.0,5.0,2.0,1.0,3.0,Very Difficult,Remote Work,Male,36,CA,No Awnser,Asian or Asian American
+62a33c2cbc6861bf3176bec1,6/10/2022,8:42,0:02:18,Data Engineer,No,40000,Clean Energy,Python,0.0,8.0,7.0,5.0,7.0,7.0,Easy,Good Work/Life Balance,Male,23,NG,No Awnser,Black or African American
+62a33c8624a26260273822f9,6/10/2022,8:43,0:02:10,Consultant,Yes,225000,Finance,R,10.0,6.0,7.0,10.0,7.0,10.0,Very Easy,Remote Work,Female,35,CA,No Awnser,White or Caucasian
+62a33c91f3072dd892621e03,6/10/2022,8:44,0:01:51,Data Analyst,Yes,65000,Healthcare,R,1.0,4.0,4.0,4.0,0.0,1.0,Difficult,Better Salary,Male,44,US,No Awnser,Black or African American
+62a33cb6cf25554317300177,6/10/2022,8:44,0:02:34,Data Analyst,Yes,40000,Leasing,Python,2.0,3.0,3.0,3.0,3.0,2.0,Difficult,Good Work/Life Balance,Male,33,CG,No Awnser,Black or African American
+62a33cb72e54c9003e531c65,6/10/2022,8:44,0:01:15,Data Scientist,Yes,40000,Finance,Python,0.0,6.0,6.0,6.0,6.0,5.0,Difficult,Better Salary,Male,24,Other,No Awnser,Black or African American
+62a33cd30f8c8599d5af0f8f,6/10/2022,8:45,0:01:25,Data Engineer,Yes,150000,Retail,SQL,10.0,5.0,5.0,5.0,5.0,9.0,Neither easy nor difficult,Remote Work,Male,35,US,No Awnser,Asian or Asian American
+62a33cd3cf255543173001d9,6/10/2022,8:45,0:02:10,Data Analyst,Yes,105000,Healthcare,R,4.0,4.0,4.0,4.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,35,US,No Awnser,Asian or Asian American
+62a33cd8bc6861bf3176c05f,6/10/2022,8:45,0:01:27,Data Analyst,Yes,65000,Telecommunication,Python,2.0,0.0,3.0,3.0,0.0,4.0,Very Difficult,Better Salary,Male,28,US,No Awnser,Hispanic or Latino
+62a33ce918134ddc75ce8c30,6/10/2022,8:45,0:01:29,Data Analyst,Yes,85000,Logistics,Python,10.0,10.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Remote Work,Male,37,CA,No Awnser,White or Caucasian
+62a33cf30a77c1a77f65baa2,6/10/2022,8:45,0:02:31,Data Analyst,Yes,40000,Tech,Python,3.0,8.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Better Salary,Male,32,CO,No Awnser,White or Caucasian
+62a33d15f408bae018ed370d,6/10/2022,8:46,0:03:20,Data Analyst,Yes,40000,Tech,R,1.0,10.0,9.0,9.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,34,AR,No Awnser,Other (Please Specify):Latino with Italian roots
+62a33d1ebae91e4b8b82e707,6/10/2022,8:46,0:00:55,Data Scientist,Yes,40000,Education,Python,3.0,10.0,10.0,6.0,7.0,8.0,Easy,Good Work/Life Balance,Male,30,UK,No Awnser,White or Caucasian
+62a33d4624a26260273824c4,6/10/2022,8:47,0:01:24,Data Analyst,No,65000,Construction,R,4.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Good Culture,Male,31,US,No Awnser,White or Caucasian
+62a33d5c0f8c8599d5af107c,6/10/2022,8:47,0:00:47,Data Analyst,Yes,65000,Finance,Python,4.0,10.0,7.0,7.0,7.0,5.0,Difficult,Good Culture,Male,29,US,No Awnser,White or Caucasian
+62a33d850f8c8599d5af10cb,6/10/2022,8:48,0:01:06,Data Analyst,Yes,40000,Tech,Python,1.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Better Salary,Male,22,NE,No Awnser,Black or African American
+62a33d9bf8f7561645852496,6/10/2022,8:48,0:01:04,Student,Yes,40000,Retail,Python,1.0,3.0,2.0,2.0,4.0,1.0,Difficult,Better Salary,Male,23,US,No Awnser,Black or African American
+62a33dbdd8c00e9f5419cd65,6/10/2022,8:49,0:01:05,Student,No,65000,Tech,R,7.0,8.0,8.0,6.0,8.0,3.0,Very Difficult,Better Salary,Female,26,CA,No Awnser,Asian or Asian American
+62a33de124a26260273826b2,6/10/2022,8:49,0:01:21,Data Analyst,No,40000,Aviation,Python,1.0,1.0,1.0,1.0,2.0,0.0,Very Difficult,Better Salary,Male,28,NG,No Awnser,Black or African American
+62a33dedd8c00e9f5419ce2b,6/10/2022,8:49,0:01:23,Data Analyst,Yes,65000,Finance,Python,5.0,5.0,5.0,5.0,5.0,5.0,Easy,Remote Work,Male,29,KE,No Awnser,Black or African American
+62a33dfbd8c00e9f5419ceda,6/10/2022,8:50,0:01:35,Data Analyst,Yes,125000,Tech,SQL,10.0,5.0,10.0,6.0,10.0,10.0,Neither easy nor difficult,Remote Work,Female,31,US,No Awnser,White or Caucasian
+62a33e38f3072dd8926221d3,6/10/2022,8:51,0:01:25,Data Analyst,Yes,40000,Healthcare,Python,5.0,6.0,8.0,8.0,7.0,1.0,Neither easy nor difficult,Remote Work,Male,28,AZ,No Awnser,White or Caucasian
+62a33e54d8c00e9f5419cfe9,6/10/2022,8:51,0:01:47,Data Analyst,No,40000,Finance,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,32,AR,No Awnser,Hispanic or Latino
+62a33e62575fa3a5ae88aabf,6/10/2022,8:51,0:02:14,Data Analyst,No,40000,Tech,Python,7.0,8.0,8.0,8.0,3.0,8.0,Easy,Better Salary,Male,24,SS,No Awnser,Black or African American
+62a33e63cec54911e9ca4f99,6/10/2022,8:51,0:02:21,Data Analyst,No,40000,Tech,Python,4.0,6.0,6.0,6.0,7.0,7.0,Easy,Good Work/Life Balance,Male,31,IN,No Awnser,Asian or Asian American
+62a33e72bae91e4b8b82ea1a,6/10/2022,8:52,0:02:07,Data Analyst,No,85000,Insurance,SQL,7.0,10.0,5.0,5.0,5.0,2.0,Difficult,Other (Please Specify):Responsibilities,Male,23,US,No Awnser,White or Caucasian
+62a33e890f8c8599d5af13b9,6/10/2022,8:52,0:01:20,Data Analyst,Yes,125000,Utilities,Python,1.0,6.0,9.0,1.0,0.0,2.0,Difficult,Remote Work,Female,33,US,No Awnser,Asian or Asian American
+62a33e8bf8d5efcc22f7c79a,6/10/2022,8:52,0:01:34,Data Analyst,No,105000,Healthcare,Qlik,6.0,7.0,7.0,7.0,7.0,4.0,Very Easy,Better Salary,Male,43,US,No Awnser,White or Caucasian
+62a33e90cec54911e9ca5031,6/10/2022,8:52,0:01:34,Student,Yes,40000,Utilities,R,0.0,0.0,5.0,0.0,0.0,0.0,Very Difficult,Remote Work,Female,23,NG,No Awnser,Other (Please Specify):African
+62a33e9df8f756164585277b,6/10/2022,8:52,0:01:47,Student,Yes,65000,Finance,Python,10.0,7.0,10.0,10.0,5.0,3.0,Very Difficult,Good Work/Life Balance,Male,31,US,No Awnser,Black or African American
+62a33eb6bc6861bf3176c5a3,6/10/2022,8:53,0:01:38,Data Analyst,Yes,85000,Finance,Python,5.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Other (Please Specify):Development,Male,31,UK,No Awnser,White or Caucasian
+62a33ee0bae91e4b8b82eaec,6/10/2022,8:53,0:03:30,Data Analyst,Yes,40000,Other,Python,8.0,7.0,8.0,7.0,7.0,7.0,Difficult,Good Work/Life Balance,Male,25,IN,No Awnser,Asian or Asian American
+62a33ee80f8c8599d5af14b7,6/10/2022,8:54,0:01:37,Data Engineer,No,150000,Tech,SQL,8.0,10.0,10.0,9.0,9.0,9.0,Easy,Better Salary,Male,43,US,No Awnser,White or Caucasian
+62a33efe0a77c1a77f65bf1e,6/10/2022,8:54,0:02:08,Data Analyst,No,65000,Finance,Python,2.0,3.0,5.0,5.0,5.0,5.0,Difficult,Better Salary,Female,26,CA,No Awnser,Other (Please Specify):South Asian
+62a33f0ef408bae018ed3aeb,6/10/2022,8:54,0:03:54,Data Analytst,No,65000,Automotive,Python,5.0,10.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Remote Work,Male,32,JP,No Awnser,White or Caucasian
+62a33f17f8f7561645852867,6/10/2022,8:54,0:02:28,Developer,No,40000,Tech,Python,2.0,9.0,7.0,7.0,5.0,6.0,Difficult,Better Salary,Male,31,GR,No Awnser,White or Caucasian
+62a33f52bc6861bf3176c72c,6/10/2022,8:55,0:01:33,Data Analyst,Yes,105000,Healthcare,SQL,3.0,5.0,6.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,29,US,No Awnser,White or Caucasian
+62a33f56cf255543173005e9,6/10/2022,8:55,0:00:56,Data Analyst,Yes,40000,Automotive,Python,3.0,1.0,3.0,2.0,3.0,1.0,Neither easy nor difficult,Good Culture,Male,24,Other,No Awnser,Hispanic or Latino
+62a33f5a5d257a28a30d7bb5,6/10/2022,8:55,0:02:38,Student,Yes,65000,Construction,Python,2.0,0.0,2.0,2.0,0.0,0.0,Very Difficult,Remote Work,Male,34,US,No Awnser,White or Caucasian
+62a33fa5cec54911e9ca51f1,6/10/2022,8:57,0:01:52,Data Analyst,Yes,65000,Utilities,SQL,5.0,6.0,6.0,5.0,4.0,6.0,Very Difficult,Better Salary,Male,42,AU,No Awnser,Other (Please Specify):Indian
+62a33fcb575fa3a5ae88ad59,6/10/2022,8:57,0:02:03,Student,Yes,40000,Student,JavaScript,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Remote Work,Female,40,US,No Awnser,Asian or Asian American
+62a33fcf18134ddc75ce91c3,6/10/2022,8:57,0:02:32,Student,No,65000,Telecommunication,Python,3.0,1.0,3.0,4.0,0.0,3.0,Easy,Good Work/Life Balance,Male,43,Other,No Awnser,White or Caucasian
+62a34006d8c00e9f5419d341,6/10/2022,8:58,0:02:39,Student,Yes,40000,Construction,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,23,KE,No Awnser,Other (Please Specify):Kenyan African 
+62a34020575fa3a5ae88ade0,6/10/2022,8:59,0:01:11,Student,Yes,40000,Education,Python,5.0,5.0,3.0,5.0,2.0,6.0,Difficult,Better Salary,Male,23,JP,No Awnser,Asian or Asian American
+62a34038b4da29969c62eafe,6/10/2022,8:59,0:03:55,Data Analyst,Yes,105000,Manufacturing,Python,8.0,6.0,2.0,3.0,6.0,7.0,Neither easy nor difficult,"Other (Please Specify):Strong organizational data strategy, high-performing team",Male,28,US,No Awnser,White or Caucasian
+62a3406b575fa3a5ae88ae78,6/10/2022,9:00,0:01:25,Data Analyst,No,85000,Finance,SQL,5.0,7.0,1.0,1.0,0.0,8.0,Neither easy nor difficult,Better Salary,Male,32,US,No Awnser,White or Caucasian
+62a340cab4da29969c62ec01,6/10/2022,9:02,0:02:47,Data Analyst,Yes,85000,Manufacturing,R,7.0,8.0,10.0,8.0,9.0,9.0,Difficult,Remote Work,Female,41,US,No Awnser,White or Caucasian
+62a340d62e54c9003e5324b4,6/10/2022,9:02,0:00:56,Data Analyst,Yes,65000,Finance,Python,5.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Remote Work,Male,33,UK,High School,White or Caucasian
+62a340e10a77c1a77f65c2e7,6/10/2022,9:02,0:01:57,Manager,Yes,225000,Tech,Python,10.0,8.0,9.0,8.0,8.0,10.0,Easy,Good Work/Life Balance,Male,38,US,No Awnser,Hispanic or Latino
+62a340f5bc6861bf3176caa4,6/10/2022,9:02,0:02:32,Data Analyst,No,40000,Tech,SQL,8.0,8.0,8.0,8.0,5.0,10.0,Easy,Better Salary,Female,22,IN,No Awnser,Other (Please Specify):Indian
+62a34117cec54911e9ca54e7,6/10/2022,9:03,0:01:59,Student,Yes,40000,Student,R,1.0,3.0,6.0,6.0,6.0,9.0,Difficult,Remote Work,Male,36,BB,Bachelors,Black or African American
+62a3413a5d257a28a30d8074,6/10/2022,9:03,0:01:18,Data Engineer,No,85000,Finance,Python,2.0,1.0,1.0,1.0,3.0,7.0,Easy,Remote Work,Female,28,US,Masters,Asian or Asian American
+62a341a1f3072dd8926229a5,6/10/2022,9:05,0:08:11,Student,Yes,40000,Education,SQL,,,,,,7.0,Very Easy,Other (Please Specify):I would say a combination of good work/life balance with a better pay and the exposure to a workplace that supposed growth,Male,30,ZA,No Awnser,"Other (Please Specify):Black African, Zimbabwean Citizen"
+62a341b0f8f7561645852d1d,6/10/2022,9:05,0:01:44,Data Analyst,Yes,85000,Tech,Python,6.0,6.0,6.0,6.0,5.0,6.0,Difficult,Other (Please Specify):Currently very happy with where I am.,Female,24,US,Bachelors,Hispanic or Latino
+62a341e8f8d5efcc22f7d002,6/10/2022,9:06,0:01:58,Business Analyst,No,65000,Logistics,C/C++,3.0,6.0,7.0,7.0,0.0,3.0,Very Difficult,Better Salary,Male,29,US,Bachelors,White or Caucasian
+62a34210cf25554317300c02,6/10/2022,9:07,0:02:15,Data Analyst,No,40000,Tech,Python,4.0,9.0,10.0,9.0,9.0,10.0,Easy,Better Salary,Male,29,CO,Associates,Hispanic or Latino
+62a3424eb4da29969c62eedd,6/10/2022,9:08,0:02:04,Business Analyst,Yes,65000,Automotive,Python,6.0,8.0,8.0,7.0,9.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,38,DE,Masters,White or Caucasian
+62a34256bae91e4b8b82f16d,6/10/2022,9:08,0:01:46,Data Analyst,Yes,40000,Finance,None,3.0,5.0,4.0,3.0,3.0,3.0,Difficult,Good Work/Life Balance,Male,31,BG,Masters,White or Caucasian
+62a3426cf408bae018ed409b,6/10/2022,9:09,0:01:33,Student,No,40000,Tech,Python,1.0,4.0,5.0,5.0,1.0,1.0,Difficult,Better Salary,Male,25,US,Masters,White or Caucasian
+62a34272f8d5efcc22f7d15f,6/10/2022,9:09,0:01:09,Data Analyst,No,85000,Telecommunication,Python,4.0,6.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,24,US,Masters,White or Caucasian
+62a34340bc6861bf3176d05b,6/10/2022,9:12,0:04:03,Consultant,Yes,65000,Tech,Python,6.0,7.0,4.0,3.0,9.0,8.0,Difficult,Better Salary,Male,28,TR,Bachelors,White or Caucasian
+62a34383b4da29969c62f1be,6/10/2022,9:13,0:01:03,Student,No,40000,Tech,Python,7.0,5.0,8.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Female,23,IN,Bachelors,Asian or Asian American
+62a34389cec54911e9ca5a22,6/10/2022,9:13,0:01:01,Data Engineer,No,40000,Tech,R,2.0,3.0,2.0,5.0,5.0,7.0,Neither easy nor difficult,Remote Work,Male,21,Other,Masters,Hispanic or Latino
+62a343a22e54c9003e532a2a,6/10/2022,9:14,0:02:43,Data Analyst,No,40000,Utilities,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Remote Work,Male,29,FR,Bachelors,Other (Please Specify):Human
+62a343d9f3072dd892622fe4,6/10/2022,9:15,0:03:15,Data Analyst,Yes,65000,Tech,Python,5.0,6.0,7.0,7.0,7.0,6.0,Difficult,Better Salary,Male,25,US,Bachelors,Asian or Asian American
+62a34400d8c00e9f5419dc2b,6/10/2022,9:15,0:01:24,Data Analyst,No,65000,Tech,Python,6.0,6.0,6.0,6.0,3.0,5.0,Difficult,Good Culture,Male,27,DE,Masters,Black or African American
+62a34425f8d5efcc22f7d525,6/10/2022,9:16,0:01:28,Data Analyst,Yes,65000,Tech,Python,3.0,9.0,10.0,8.0,9.0,9.0,Easy,Better Salary,Male,23,IN,Bachelors,Asian or Asian American
+62a34449575fa3a5ae88b637,6/10/2022,9:16,0:02:36,Supply Chain Analyst,No,105000,Food & Beverage,R,4.0,3.0,3.0,5.0,5.0,5.0,Difficult,Better Salary,Male,32,US,Masters,Asian or Asian American
+62a3445dcf255543173011e1,6/10/2022,9:17,0:02:41,Student,Yes,125000,Healthcare,Python,5.0,5.0,7.0,5.0,7.0,7.0,Neither easy nor difficult,Remote Work,Male,22,IN,Bachelors,Asian or Asian American
+62a3447a575fa3a5ae88b6c0,6/10/2022,9:17,0:04:14,Data Analyst,No,40000,Tech,Python,2.0,9.0,9.0,8.0,6.0,2.0,Easy,Better Salary,Male,25,TH,Bachelors,Asian or Asian American
+62a3449f7dc029e2d66bf5d1,6/10/2022,9:18,0:01:15,Data Analyst,Yes,40000,Telecommunication,Python,2.0,8.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Remote Work,Female,36,DE,Masters,White or Caucasian
+62a344c5f408bae018ed4806,6/10/2022,9:19,0:02:21,Data Analyst,Yes,125000,Tech,SQL,10.0,6.0,9.0,5.0,8.0,7.0,Easy,Good Work/Life Balance,Female,27,US,Bachelors,White or Caucasian
+62a344c6f8d5efcc22f7d6e1,6/10/2022,9:19,0:02:17,Business Analyst,Yes,40000,Tech,Python,5.0,5.0,5.0,5.0,5.0,1.0,Neither easy nor difficult,Other (Please Specify):My passion is to become a Data analyst ,Male,23,IN,Bachelors,Asian or Asian American
+62a344e1f3072dd892623328,6/10/2022,9:19,0:01:32,Student,Yes,40000,Tech,SQL,2.0,3.0,3.0,3.0,3.0,6.0,Very Difficult,Better Salary,Male,26,NL,Bachelors,Black or African American
+62a3450424a262602738357f,6/10/2022,9:20,0:01:19,Director,No,105000,Healthcare,Python,9.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Good Work/Life Balance,Female,33,US,PhD,Hispanic or Latino
+62a3452818134ddc75ce9e1b,6/10/2022,9:20,0:01:33,Data Analyst,Yes,125000,Automotive,Python,3.0,5.0,3.0,3.0,5.0,5.0,Easy,Better Salary,Male,27,TR,Masters,White or Caucasian
+62a345490a77c1a77f65cc5b,6/10/2022,9:21,0:01:38,Data Analyst,Yes,65000,Education,R,3.0,6.0,5.0,4.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,42,US,Associates,White or Caucasian
+62a3455bbc6861bf3176d57a,6/10/2022,9:21,0:02:36,Data Analyst,Yes,40000,Tech,Python,6.0,7.0,8.0,7.0,7.0,8.0,Easy,Good Work/Life Balance,Male,29,Other,Masters,White or Caucasian
+62a3457bf8d5efcc22f7da17,6/10/2022,9:22,0:01:08,Data Analyst,No,150000,Tech,Python,4.0,7.0,6.0,4.0,2.0,4.0,Easy,Better Salary,Female,27,US,Masters,Asian or Asian American
+62a345b2bae91e4b8b82fad6,6/10/2022,9:22,0:01:41,Student,No,65000,Healthcare,Python,0.0,10.0,10.0,10.0,4.0,2.0,Neither easy nor difficult,Remote Work,Female,39,US,Bachelors,Hispanic or Latino
+62a345c47dc029e2d66bf80a,6/10/2022,9:23,0:01:36,Data Analyst,Yes,65000,Telecommunication,Python,6.0,6.0,7.0,5.0,6.0,7.0,Difficult,Good Culture,Male,31,DK,Masters,White or Caucasian
+62a345e25d257a28a30d8b43,6/10/2022,9:23,0:03:09,Data Analyst,Yes,85000,Marketing,Python,7.0,7.0,5.0,9.0,7.0,8.0,Easy,Good Work/Life Balance,Male,29,BZ,Bachelors,Hispanic or Latino
+62a34646f8d5efcc22f7dc5c,6/10/2022,9:25,0:01:22,Data Analyst,Yes,85000,Education,R,7.0,7.0,7.0,7.0,4.0,7.0,Easy,Remote Work,Male,31,US,Masters,White or Caucasian
+62a34687f408bae018ed4c52,6/10/2022,9:26,0:01:30,Data Analyst,Yes,40000,Finance,Python,10.0,9.0,9.0,10.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,30,MX,Masters,Hispanic or Latino
+62a346a37dc029e2d66bfa6d,6/10/2022,9:26,0:03:05,Data Engineer,Yes,40000,Tech,Python,7.0,8.0,6.0,5.0,5.0,9.0,Difficult,Better Salary,Male,33,MX,Masters,Hispanic or Latino
+62a346a95d257a28a30d8cb9,6/10/2022,9:27,0:00:58,Data Analyst,No,85000,Retail,Python,7.0,8.0,9.0,7.0,7.0,7.0,Neither easy nor difficult,Better Salary,Male,25,US,Bachelors,White or Caucasian
+62a346b4bc6861bf3176d7ce,6/10/2022,9:27,0:01:09,Student,No,40000,Tech,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,23,IN,Bachelors,Other (Please Specify):Indian
+62a346cef8f756164585385b,6/10/2022,9:27,0:01:51,Data Analyst,Yes,65000,Marketing,None,4.0,4.0,3.0,3.0,5.0,6.0,Very Difficult,Better Salary,Male,33,US,Bachelors,Asian or Asian American
+62a346d724a2626027383abd,6/10/2022,9:27,0:02:29,Business Analyst,Yes,85000,Logistics,Python,7.0,9.0,9.0,8.0,8.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,CL,Bachelors,Hispanic or Latino
+62a346d90a77c1a77f65d08d,6/10/2022,9:27,0:02:39,Data Analyst,No,65000,Recruitment,Python,6.0,8.0,5.0,,6.0,9.0,Neither easy nor difficult,Remote Work,Female,42,GR,Masters,White or Caucasian
+62a34726f8d5efcc22f7dec7,6/10/2022,9:29,0:01:14,Data Analyst,No,85000,Tech,Python,3.0,4.0,2.0,1.0,0.0,4.0,Neither easy nor difficult,Better Salary,Male,25,US,Bachelors,White or Caucasian
+62a3476c5d257a28a30d8e6d,6/10/2022,9:30,0:03:00,Data Analyst,No,105000,Automotive,Python,5.0,4.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,"Other (Please Specify):Different job title, either product owner or consulting",Male,23,US,Bachelors,White or Caucasian
+62a347b4f8f7561645853a98,6/10/2022,9:31,0:02:02,Manager,No,65000,Healthcare,JavaScript,2.0,4.0,6.0,5.0,3.0,4.0,Easy,Better Salary,Female,51,US,Bachelors,Black or African American
+62a347f6b4da29969c62fb79,6/10/2022,9:32,0:01:45,Data Analyst,No,40000,Telecommunication,Other,1.0,4.0,4.0,3.0,2.0,6.0,Very Difficult,Better Salary,Male,30,UK,Bachelors,Black or African American
+62a3483018134ddc75cea4e6,6/10/2022,9:33,0:01:41,Data Analyst,Yes,65000,Finance,Python,8.0,9.0,9.0,9.0,9.0,8.0,Very Difficult,Better Salary,Male,23,IN,Bachelors,Asian or Asian American
+62a348650f8c8599d5af2b77,6/10/2022,9:34,0:01:06,Analyst,Yes,65000,Marketing,R,3.0,5.0,5.0,6.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,24,CA,Bachelors,Asian or Asian American
+62a3489318134ddc75cea659,6/10/2022,9:35,0:01:06,Student,Yes,65000,Tech,Python,6.0,6.0,6.0,6.0,6.0,6.0,Easy,Good Culture,Male,25,AU,Masters,Asian or Asian American
+62a348bf2e54c9003e533634,6/10/2022,9:35,0:02:22,Data Analyst,Yes,65000,Finance,Python,4.0,4.0,6.0,4.0,5.0,6.0,Difficult,Better Salary,Female,55,US,Masters,Other (Please Specify):Race isn't a thing
+62a348c2f3072dd892623c10,6/10/2022,9:36,0:01:56,Data Analyst,No,105000,Biotech,R,8.0,10.0,8.0,7.0,8.0,10.0,Very Easy,Remote Work,Female,30,US,Masters,White or Caucasian
+62a348f2f8d5efcc22f7e2ba,6/10/2022,9:36,0:01:10,Data Analyst,Yes,65000,Consulting,Python,9.0,9.0,9.0,9.0,7.0,4.0,Difficult,Better Salary,Male,25,CA,Bachelors,Asian or Asian American
+62a349160a77c1a77f65d4db,6/10/2022,9:37,0:00:28,Data Analyst,Yes,85000,Consumer Electronics,Python,6.0,9.0,7.0,6.0,7.0,7.0,Neither easy nor difficult,Better Salary,Male,28,US,Masters,White or Caucasian
+62a3493fb4da29969c62fe63,6/10/2022,9:38,0:02:22,Analyst,Yes,65000,Consulting,Python,8.0,8.0,9.0,9.0,10.0,10.0,Very Easy,Better Salary,Male,34,UK,Bachelors,White or Caucasian
+62a3496e575fa3a5ae88c4e6,6/10/2022,9:38,0:03:18,Data Analyst,Yes,40000,Tech,Python,8.0,10.0,9.0,9.0,10.0,8.0,Neither easy nor difficult,Better Salary,Female,28,CR,Bachelors,Hispanic or Latino
+62a3498e575fa3a5ae88c554,6/10/2022,9:39,0:01:55,Student,No,40000,Manufacturing,Other,7.0,9.0,7.0,8.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,24,VN,Bachelors,Asian or Asian American
+62a34991b4da29969c62ff4b,6/10/2022,9:39,0:01:15,Student,Yes,40000,Healthcare,Python,3.0,7.0,7.0,7.0,1.0,2.0,Difficult,Better Salary,Male,31,US,Masters,Black or African American
+62a349bbf8f756164585400d,6/10/2022,9:40,0:02:07,Data Analyst,Yes,65000,Supply Chain,SQL,3.0,6.0,6.0,6.0,4.0,4.0,Easy,Better Salary,Male,25,CA,Bachelors,Asian or Asian American
+62a349c7cec54911e9ca67c7,6/10/2022,9:40,0:01:05,Data Analyst,Yes,125000,Finance,Python,5.0,1.0,4.0,3.0,3.0,4.0,Easy,Better Salary,Female,38,US,Bachelors,White or Caucasian
+62a349d5d8c00e9f5419ead2,6/10/2022,9:40,0:01:32,Data Analyst,No,65000,Finance,Python,5.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Good Culture,Male,30,NL,Bachelors,Hispanic or Latino
+62a349e6b4da29969c63000c,6/10/2022,9:40,0:01:32,Data Analyst,Yes,40000,Tech,C/C++,0.0,0.0,0.0,2.0,2.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,IN,Bachelors,Asian or Asian American
+62a34a03cec54911e9ca6869,6/10/2022,9:41,0:01:08,Data Analyst,Yes,40000,Tech,Python,1.0,2.0,1.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Female,29,NG,Bachelors,Black or African American
+62a34ab15d257a28a30d9589,6/10/2022,9:44,0:04:27,Data Scientist,Yes,225000,Finance,Python,7.0,5.0,3.0,6.0,4.0,4.0,Difficult,Good Work/Life Balance,Male,21,PT,Masters,White or Caucasian
+62a34abc0f8c8599d5af31c5,6/10/2022,9:44,0:02:00,Data Analyst,Yes,85000,Supply Chain,SQL,5.0,8.0,8.0,7.0,6.0,7.0,Very Easy,Remote Work,Female,39,US,Bachelors,Asian or Asian American
+62a34b07cec54911e9ca6b6e,6/10/2022,9:45,0:01:19,Student,No,40000,Other,Python,0.0,0.0,0.0,0.0,0.0,5.0,Neither easy nor difficult,Better Salary,Male,25,TR,Bachelors,White or Caucasian
+62a34b0eb4da29969c6302ce,6/10/2022,9:45,0:02:36,Analyst,Yes,105000,Finance,Other,7.0,9.0,10.0,6.0,4.0,4.0,Neither easy nor difficult,Other (Please Specify):Opportunity for advancement ,Female,42,US,Masters,Hispanic or Latino
+62a34b1b0f8c8599d5af328b,6/10/2022,9:46,0:00:48,Data Analyst,No,65000,Tech,R,10.0,8.0,9.0,10.0,10.0,10.0,Easy,Better Salary,Male,25,US,Bachelors,White or Caucasian
+62a34b5b5d257a28a30d96a6,6/10/2022,9:47,0:01:20,Data Scientist,No,105000,Finance,Python,8.0,7.0,6.0,6.0,5.0,9.0,Neither easy nor difficult,Better Salary,Male,22,US,Bachelors,White or Caucasian
+62a34b7ebae91e4b8b83076c,6/10/2022,9:47,0:02:04,Data Analyst,No,40000,Customer Service,Python,1.0,4.0,4.0,3.0,,5.0,Easy,Better Salary,Male,23,CO,High School,Hispanic or Latino
+62a34b99cec54911e9ca6e14,6/10/2022,9:48,0:02:36,Data Engineer,Yes,65000,eCommerce,JavaScript,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Good Culture,Male,25,EG,High School,Other (Please Specify):Middleeas
+62a34bb0f3072dd892624210,6/10/2022,9:48,0:01:05,Data Engineer,Yes,85000,Consulting,Python,5.0,7.0,7.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,45,CA,Masters,White or Caucasian
+62a34bd0cf2555431730208b,6/10/2022,9:49,0:01:29,Data Analyst,Yes,85000,Healthcare,SQL,7.0,3.0,8.0,6.0,8.0,8.0,Easy,Good Work/Life Balance,Male,24,US,Bachelors,White or Caucasian
+62a34bd4f408bae018ed57bd,6/10/2022,9:49,0:03:57,Student,No,40000,Government,R,1.0,9.0,6.0,0.0,0.0,0.0,Difficult,Better Salary,Male,25,US,No Awnser,Black or African American
+62a34c66b4da29969c6305af,6/10/2022,9:51,0:01:36,Data Analyst,Yes,85000,Marketing,Python,9.0,8.0,9.0,9.0,8.0,8.0,Difficult,Good Work/Life Balance,Male,26,US,Bachelors,White or Caucasian
+62a34d1ff8f756164585465c,6/10/2022,9:54,0:01:41,Data Analyst,No,65000,Tech,R,4.0,7.0,8.0,8.0,5.0,7.0,Easy,Better Salary,Male,23,CA,Bachelors,Asian or Asian American
+62a34d4118134ddc75ceb0ed,6/10/2022,9:55,0:01:37,Student,Yes,40000,Culture,Python,1.0,1.0,1.0,0.0,0.0,3.0,Difficult,Remote Work,Female,42,UK,Masters,White or Caucasian
+62a34da0f408bae018ed5abd,6/10/2022,9:56,0:01:30,Professor,Yes,65000,Education,Other,0.0,0.0,2.0,0.0,0.0,0.0,Very Difficult,Good Work/Life Balance,Female,42,US,Bachelors,Black or African American
+62a34dbb5d257a28a30d9a61,6/10/2022,9:57,0:01:26,Business Analyst,No,40000,Tech,Python,0.0,6.0,5.0,5.0,3.0,1.0,Neither easy nor difficult,Better Salary,Male,25,IN,Masters,Asian or Asian American
+62a34e00f8f7561645854954,6/10/2022,9:58,0:02:24,Data Analyst,Yes,105000,Tech,R,8.0,10.0,10.0,10.0,2.0,7.0,Easy,Remote Work,Male,38,US,Masters,White or Caucasian
+62a34e082e54c9003e534118,6/10/2022,9:58,0:02:51,Data Engineer,No,40000,Tech,Python,5.0,6.0,6.0,6.0,6.0,4.0,Easy,Better Salary,Male,24,CR,Bachelors,Hispanic or Latino
+62a34eb7bc6861bf3176e6d8,6/10/2022,10:01,0:01:37,Data Analyst,Yes,85000,Education,R,7.0,10.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Male,28,US,Bachelors,White or Caucasian
+62a34f2af8f7561645854c1c,6/10/2022,10:03,0:01:06,Data Analyst,No,65000,Healthcare,Python,1.0,2.0,8.0,7.0,0.0,0.0,Difficult,Better Salary,Male,21,US,Bachelors,Asian or Asian American
+62a34f3bf408bae018ed5e42,6/10/2022,10:03,0:01:13,Data Analyst,Yes,125000,Healthcare,R,10.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Good Culture,Male,39,US,Masters,White or Caucasian
+62a34fa418134ddc75ceb509,6/10/2022,10:05,0:03:29,Data Analyst,Yes,40000,Tech,Python,4.0,5.0,5.0,5.0,6.0,8.0,Difficult,Good Work/Life Balance,Male,23,PK,Bachelors,Asian or Asian American
+62a34fbacec54911e9ca776f,6/10/2022,10:05,0:01:17,Data Analyst,No,40000,Government,R,1.0,6.0,4.0,3.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Female,23,AU,Bachelors,White or Caucasian
+62a34fc3f3072dd892624a45,6/10/2022,10:05,0:02:03,Data Analyst,Yes,85000,Supply Chain,R,8.0,9.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,30,US,Masters,White or Caucasian
+62a34ff1f408bae018ed601d,6/10/2022,10:06,0:01:16,Data Analyst,No,65000,Manufacturing,Python,2.0,6.0,2.0,3.0,2.0,2.0,Easy,Better Salary,Male,26,IRL,Masters,White or Caucasian
+62a34ff4f3072dd892624b32,6/10/2022,10:06,0:02:18,Data Analyst,Yes,65000,Healthcare,R,3.0,6.0,4.0,6.0,4.0,6.0,Neither easy nor difficult,Better Salary,Male,37,US,Bachelors,White or Caucasian
+62a3505bd8c00e9f5419f8df,6/10/2022,10:08,0:01:22,Data Analyst,Yes,85000,Healthcare,Python,3.0,5.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,31,US,Bachelors,White or Caucasian
+62a350f7f3072dd892624d05,6/10/2022,10:11,0:02:03,Data Analyst,Yes,40000,Finance,C/C++,5.0,2.0,4.0,3.0,3.0,3.0,Difficult,Good Work/Life Balance,Female,25,ZA,Bachelors,Black or African American
+62a35130f3072dd892624d9f,6/10/2022,10:12,0:02:04,Data Analyst,Yes,40000,Healthcare,Python,2.0,6.0,6.0,5.0,4.0,5.0,Easy,Better Salary,Female,26,PL,Bachelors,White or Caucasian
+62a351860a77c1a77f65e86b,6/10/2022,10:13,0:01:28,Data Analyst,Yes,85000,Healthcare,SQL,7.0,8.0,8.0,8.0,8.0,7.0,Very Easy,Better Salary,Male,30,US,Bachelors,White or Caucasian
+62a3519b24a262602738514a,6/10/2022,10:13,0:01:39,Data Analyst,Yes,85000,Tech,Python,9.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Better Salary,Female,39,US,Bachelors,Black or African American
+62a35236b4da29969c631214,6/10/2022,10:16,0:00:53,Other,No,40000,Education,Python,1.0,1.0,1.0,0.0,0.0,2.0,Easy,Good Work/Life Balance,Female,28,IN,Masters,Asian or Asian American
+62a352a32e54c9003e534981,6/10/2022,10:18,0:01:46,Data Analyst,Yes,85000,Finance,SQL,8.0,8.0,7.0,7.0,10.0,10.0,Very Easy,Good Work/Life Balance,Male,22,US,Bachelors,Other (Please Specify):Mixed ( Caucasian / African-American )
+62a352f00a77c1a77f65eae7,6/10/2022,10:19,0:02:45,Data Analyst,Yes,40000,Telecommunication,Python,3.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Good Culture,Male,28,MZ,Bachelors,Black or African American
+62a353372e54c9003e534a40,6/10/2022,10:20,0:01:44,Manager,No,225000,Tech,R,8.0,10.0,9.0,7.0,5.0,5.0,Neither easy nor difficult,Remote Work,Male,33,US,Masters,White or Caucasian
+62a353565d257a28a30da59f,6/10/2022,10:21,0:05:11,Data Analyst,Yes,40000,Finance,SQL,2.0,3.0,3.0,3.0,2.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,22,EG,Bachelors,Other (Please Specify):Half Asian half African 
+62a353f07dc029e2d66c1783,6/10/2022,10:23,0:01:48,Student,No,40000,Tech,Python,3.0,5.0,5.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,27,IN,Bachelors,Other (Please Specify):Brown
+62a3545e0f8c8599d5af474b,6/10/2022,10:25,0:03:42,Data Analyst,Yes,125000,Construction,DAX,8.0,8.0,8.0,8.0,10.0,10.0,Easy,Good Work/Life Balance,Male,37,US,Bachelors,Other (Please Specify):Prefer not to ans
+62a35472cec54911e9ca82bc,6/10/2022,10:25,0:22:47,Business Analyst,No,65000,Wholesale,R,3.0,4.0,5.0,5.0,4.0,3.0,Difficult,Better Salary,Male,24,US,Masters,White or Caucasian
+62a354bdb4da29969c631700,6/10/2022,10:27,0:01:20,Data Analyst,No,65000,Healthcare,R,1.0,4.0,3.0,2.0,0.0,6.0,Difficult,Better Salary,Male,25,UK,Masters,Asian or Asian American
+62a354e9cf255543173031ed,6/10/2022,10:27,0:01:24,Data Engineer,No,105000,Healthcare,R,8.0,10.0,8.0,8.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,28,US,Masters,Black or African American
+62a35541f3072dd892625517,6/10/2022,10:29,0:02:07,Data Analyst,Yes,65000,Utilities,Python,5.0,5.0,7.0,7.0,7.0,7.0,Easy,Better Salary,Male,32,UK,Bachelors,White or Caucasian
+62a355445d257a28a30dab12,6/10/2022,10:29,0:01:34,Data Analyst,Yes,65000,Government,Python,0.0,7.0,7.0,7.0,0.0,7.0,Easy,Good Culture,Male,29,US,Bachelors,Asian or Asian American
+62a35631cf25554317303425,6/10/2022,10:33,0:02:50,Data Analyst,No,65000,Healthcare,R,7.0,5.0,8.0,6.0,5.0,10.0,Difficult,"Other (Please Specify):Want to move from Australia to Canada, so position in desired country ",Female,26,AU,Masters,White or Caucasian
+62a357390a77c1a77f65f189,6/10/2022,10:37,0:03:01,Data Engineer,Yes,65000,Tech,Python,0.0,7.0,5.0,0.0,0.0,7.0,Neither easy nor difficult,Remote Work,Male,37,CA,Masters,White or Caucasian
+62a3578b0a77c1a77f65f279,6/10/2022,10:39,0:01:44,Data Analyst,No,65000,Supply Chain,R,4.0,6.0,5.0,4.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,25,US,Bachelors,White or Caucasian
+62a357d30f8c8599d5af4ea3,6/10/2022,10:40,0:01:36,Data Analyst,No,40000,Finance,SQL,4.0,4.0,5.0,6.0,6.0,0.0,Difficult,Better Salary,Male,24,IL,High School,White or Caucasian
+62a3582e575fa3a5ae88e506,6/10/2022,10:41,0:02:45,Manager,No,150000,Finance,SQL,7.0,8.0,8.0,8.0,7.0,8.0,Easy,Better Salary,Male,52,US,Bachelors,White or Caucasian
+62a35878575fa3a5ae88e5d5,6/10/2022,10:43,0:04:22,Data Analyst,Yes,65000,Finance,Python,6.0,10.0,3.0,5.0,0.0,10.0,Difficult,Good Culture,Male,27,SG,Bachelors,Asian or Asian American
+62a35981bae91e4b8b8323dd,6/10/2022,10:47,0:01:07,Data Analyst,No,125000,Healthcare,Other,6.0,6.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Better Salary,Female,29,US,Masters,White or Caucasian
+62a35a2c7dc029e2d66c2519,6/10/2022,10:50,0:01:39,Student,No,40000,Tech,Python,3.0,7.0,6.0,7.0,0.0,0.0,Difficult,Better Salary,Male,42,BZ,Associates,White or Caucasian
+62a35aa2f8d5efcc22f8075d,6/10/2022,10:52,0:01:24,Data Analyst,Yes,65000,Telecommunication,R,3.0,5.0,6.0,4.0,3.0,7.0,Difficult,Other (Please Specify):All of the options are important to me when looking for a new job,Male,28,US,Masters,White or Caucasian
+62a35ababae91e4b8b83269d,6/10/2022,10:52,0:02:39,Data Analyst,Yes,40000,Tech,Python,8.0,8.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Male,44,CR,Bachelors,Hispanic or Latino
+62a35ae0575fa3a5ae88ea98,6/10/2022,10:53,0:01:30,Data Engineer,Yes,40000,Tech,Python,5.0,5.0,6.0,5.0,6.0,7.0,Neither easy nor difficult,Remote Work,Male,23,Other,Bachelors,White or Caucasian
+62a35ae87dc029e2d66c279b,6/10/2022,10:53,0:01:14,Data Analyst,No,65000,Entertainment,R,1.0,2.0,6.0,4.0,2.0,0.0,Easy,Better Salary,Male,27,US,Bachelors,Hispanic or Latino
+62a35b13bc6861bf31770188,6/10/2022,10:54,0:01:05,Data Analyst,No,85000,Construction,Python,3.0,3.0,3.0,2.0,2.0,1.0,Neither easy nor difficult,Good Culture,Male,26,US,Masters,White or Caucasian
+62a35b72f408bae018ed76a8,6/10/2022,10:55,0:01:14,Data Analyst,Yes,105000,Healthcare,Excel,3.0,4.0,4.0,4.0,1.0,3.0,Neither easy nor difficult,Better Salary,Male,27,US,Masters,Hispanic or Latino
+62a35b965d257a28a30db899,6/10/2022,10:56,0:01:45,Data Analyst,Yes,85000,Retail,Python,0.0,0.0,7.0,1.0,0.0,9.0,Difficult,Better Salary,Male,33,CA,Bachelors,Asian or Asian American
+62a35ba3f3072dd892626068,6/10/2022,10:56,0:01:44,Data Analyst,Yes,85000,Aerospace,Python,8.0,10.0,10.0,10.0,10.0,10.0,Easy,Better Salary,Male,28,US,Bachelors,Hispanic or Latino
+62a35c890a77c1a77f65fdfa,6/10/2022,11:00,0:01:29,Data Analyst,Yes,40000,Tech,R,2.0,8.0,8.0,7.0,6.0,9.0,Neither easy nor difficult,Better Salary,Male,32,KE,Bachelors,Black or African American
+62a35d8f575fa3a5ae88efd6,6/10/2022,11:04,0:02:38,Student,Yes,65000,Food & Beverage,Python,2.0,4.0,6.0,1.0,1.0,1.0,Very Difficult,Better Salary,Male,34,CA,Associates,Asian or Asian American
+62a35d95cf25554317304386,6/10/2022,11:04,0:01:04,Data Analyst,No,225000,Tech,Python,10.0,10.0,10.0,8.0,10.0,10.0,Easy,Good Work/Life Balance,Male,28,US,Bachelors,Asian or Asian American
+62a35e970a77c1a77f66035a,6/10/2022,11:09,0:01:51,Data Scientist,Yes,150000,Telecommunication,Python,2.0,4.0,1.0,3.0,1.0,7.0,Neither easy nor difficult,Better Salary,Male,27,IN,Bachelors,Other (Please Specify):Indian
+62a35eabf408bae018ed7cbc,6/10/2022,11:09,0:01:35,Data Engineer,Yes,65000,Finance,Python,2.0,4.0,5.0,5.0,4.0,6.0,Difficult,Better Salary,Male,22,US,Bachelors,White or Caucasian
+62a35f0d24a2626027386a8b,6/10/2022,11:11,0:01:03,Data Analyst,No,85000,Healthcare,Python,3.0,3.0,4.0,1.0,2.0,2.0,Neither easy nor difficult,Better Salary,Male,29,US,Masters,White or Caucasian
+62a35f825d257a28a30dc128,6/10/2022,11:13,0:02:17,Data Analyst,No,85000,Healthcare,Python,8.0,10.0,10.0,8.0,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Female,31,US,Masters,White or Caucasian
+62a35fa0f8f7561645856c35,6/10/2022,11:13,0:01:39,Data Analyst,No,85000,Tech,Python,4.0,5.0,5.0,5.0,4.0,4.0,Easy,Remote Work,Male,28,US,Bachelors,White or Caucasian
+62a35fc1f8f7561645856c98,6/10/2022,11:14,0:00:53,Student,No,40000,Healthcare,Python,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,US,Masters,Asian or Asian American
+62a3602318134ddc75ced6b9,6/10/2022,11:15,0:01:19,Data Analyst,No,105000,Government,Other,4.0,5.0,3.0,4.0,2.0,3.0,Easy,Good Culture,Male,34,US,Masters,White or Caucasian
+62a360b8f8f7561645856ec4,6/10/2022,11:18,0:01:16,Data Engineer,No,105000,Tech,Python,5.0,3.0,5.0,5.0,4.0,5.0,Difficult,Better Salary,Male,23,US,Bachelors,White or Caucasian
+62a360dbd8c00e9f541a16cf,6/10/2022,11:18,0:02:08,Student,No,65000,Construction,Excel,10.0,4.0,10.0,10.0,4.0,10.0,Neither easy nor difficult,Remote Work,Male,32,BEL,Masters,White or Caucasian
+62a36146f8f7561645856ff7,6/10/2022,11:20,0:01:31,Data Analyst,Yes,40000,Healthcare,R,6.0,8.0,6.0,6.0,8.0,10.0,Easy,Remote Work,Male,29,AR,High School,Hispanic or Latino
+62a361af0f8c8599d5af6277,6/10/2022,11:22,0:01:39,Data Analyst,Yes,40000,Education,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,34,NG,Bachelors,Black or African American
+62a361cc575fa3a5ae88f908,6/10/2022,11:22,0:00:55,Data Analyst,No,85000,Finance,Python,7.0,5.0,5.0,7.0,9.0,10.0,Very Easy,Remote Work,Male,24,UK,Bachelors,White or Caucasian
+62a3620f0f8c8599d5af63a5,6/10/2022,11:23,0:02:19,Analyst,No,85000,Tech,Python,0.0,10.0,6.0,0.0,0.0,0.0,Difficult,Better Salary,Male,30,US,Bachelors,Other (Please Specify):Indian
+62a36251d8c00e9f541a199e,6/10/2022,11:25,0:01:59,Data Engineer,No,105000,Entertainment,Python,5.0,5.0,6.0,4.0,5.0,5.0,Difficult,Better Salary,Male,24,US,Masters,Hispanic or Latino
+62a36275bc6861bf31771183,6/10/2022,11:25,0:01:52,Data Analyst,Yes,65000,Insurance,Python,6.0,8.0,10.0,9.0,7.0,9.0,Easy,Better Salary,Male,27,US,Bachelors,Other (Please Specify):N/A
+62a3636c2e54c9003e536e6b,6/10/2022,11:29,0:03:30,Data Analyst,No,40000,Finance,Python,1.0,2.0,4.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,21,IN,Bachelors,Asian or Asian American
+62a365c2f8d5efcc22f81e2e,6/10/2022,11:39,0:03:54,Data Analyst,No,40000,Logistics,Python,3.0,5.0,9.0,9.0,,8.0,Very Difficult,Other (Please Specify):Both Good work / life Balance and Good Culture,Male,31,AE,Masters,Black or African American
+62a365d5d8c00e9f541a20cf,6/10/2022,11:40,0:02:38,Data Analyst,Yes,40000,Telecommunication,R,5.0,7.0,5.0,5.0,5.0,7.0,Difficult,Better Salary,Male,41,EG,Bachelors,White or Caucasian
+62a3670b575fa3a5ae890422,6/10/2022,11:45,0:02:07,Data Analyst,Yes,40000,Tech,Python,0.0,1.0,1.0,0.0,0.0,2.0,Difficult,Better Salary,Male,25,IN,Bachelors,Asian or Asian American
+62a3676bb4da29969c633ac7,6/10/2022,11:46,0:03:59,Data Analyst,No,40000,Finance,None,4.0,7.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Other (Please Specify):an environment that encourages growth like where I work currently and better salary ,Male,24,NG,Bachelors,Black or African American
+62a36794b4da29969c633b48,6/10/2022,11:47,0:02:01,Data Analyst,No,40000,Finance,Python,6.0,5.0,6.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,30,CO,Masters,Other (Please Specify):African 
+62a367d224a2626027387b56,6/10/2022,11:48,0:03:38,Data Analyst,No,225000,Finance,Other,7.0,7.0,7.0,,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,33,US,Bachelors,White or Caucasian
+62a367ed18134ddc75cee697,6/10/2022,11:49,0:02:40,Data Analyst,No,85000,Energy (oil and gas),Altery,7.0,4.0,10.0,9.0,7.0,10.0,Difficult,Better Salary,Male,23,US,Bachelors,Hispanic or Latino
+62a36802f8f7561645857e38,6/10/2022,11:49,0:01:34,Data Analyst,Yes,85000,Tech,Python,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote Work,Female,33,UK,Masters,Asian or Asian American
+62a3684ebc6861bf31771f15,6/10/2022,11:50,0:00:48,Data Analyst,No,125000,Finance,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,25,US,Bachelors,White or Caucasian
+62a3688df8f7561645857f7e,6/10/2022,11:51,0:00:57,Data Analyst,No,40000,Marketing,Python,5.0,5.0,5.0,5.0,5.0,5.0,Neither easy nor difficult,Remote Work,Female,27,XK,Masters,White or Caucasian
+62a368ee2e54c9003e537e4a,6/10/2022,11:53,0:01:45,Data Analyst,Yes,40000,Finance,C/C++,5.0,10.0,10.0,8.0,10.0,10.0,Very Easy,Good Work/Life Balance,Male,30,UK,Bachelors,White or Caucasian
+62a369280a77c1a77f661ad0,6/10/2022,11:54,0:02:41,Data Analyst,Yes,40000,Tech,Python,0.0,3.0,,,,6.0,Neither easy nor difficult,Remote Work,Male,29,NG,Bachelors,Black or African American
+62a36969f8f756164585821d,6/10/2022,11:55,0:03:43,Analyst,Yes,40000,Healthcare,Python,10.0,2.0,8.0,5.0,0.0,6.0,Easy,Better Salary,Male,25,IN,Masters,Other (Please Specify):Indian
+62a3697ff408bae018ed948b,6/10/2022,11:55,0:01:28,Data Analyst,No,105000,Telecommunication,None,7.0,7.0,5.0,7.0,7.0,7.0,Easy,Remote Work,Male,40,US,High School,Hispanic or Latino
+62a36ac6cf255543173063d8,6/10/2022,12:01,0:02:59,Data Analyst,No,65000,Government,Other,6.0,10.0,8.0,8.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,29,CA,Bachelors,Other (Please Specify)
+62a36ad1f408bae018ed9793,6/10/2022,12:01,0:04:44,Data Analyst,No,65000,Other,Python,0.0,3.0,3.0,3.0,3.0,,Difficult,Remote Work,Male,29,IN,Masters,Asian or Asian American
+62a36b6c24a26260273882a2,6/10/2022,12:03,0:01:40,Data Analyst,Yes,40000,Education,Python,1.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,28,NG,Masters,Black or African American
+62a36b862e54c9003e5383c6,6/10/2022,12:04,0:02:21,Data Engineer,No,105000,Hospitality,C/C++,5.0,2.0,0.0,2.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,34,UK,Bachelors,White or Caucasian
+62a36d12f8d5efcc22f82cd8,6/10/2022,12:10,0:02:58,Student,No,40000,Tech,Python,0.0,4.0,7.0,6.0,7.0,8.0,Easy,Other (Please Specify):Learning possibilities,Male,24,BEL,Masters,White or Caucasian
+62a36d3124a262602738862c,6/10/2022,12:11,0:02:23,Data Analyst,Yes,40000,Telecommunication,Python,5.0,8.0,8.0,9.0,7.0,9.0,Very Easy,Better Salary,Male,26,IQ,Bachelors,Other (Please Specify):Kurdish
+62a36e470a77c1a77f662470,6/10/2022,12:16,0:01:21,Data Analyst,No,150000,Tech,Python,10.0,5.0,10.0,10.0,6.0,10.0,Difficult,Good Work/Life Balance,Male,28,US,Bachelors,Hispanic or Latino
+62a36e7024a262602738890a,6/10/2022,12:16,0:00:59,Student,No,40000,Education,R,5.0,4.0,4.0,4.0,5.0,5.0,Difficult,Good Work/Life Balance,Male,25,DE,Masters,White or Caucasian
+62a36fe67dc029e2d66c5303,6/10/2022,12:23,0:02:52,Data Analyst,Yes,40000,Tech,Python,1.0,4.0,9.0,7.0,8.0,10.0,Easy,Better Salary,Male,33,CO,Bachelors,Hispanic or Latino
+62a3701f575fa3a5ae89164e,6/10/2022,12:23,0:01:01,Data Analyst,Yes,85000,Finance,Python,4.0,4.0,6.0,3.0,4.0,0.0,Neither easy nor difficult,Remote Work,Male,30,IRL,Masters,White or Caucasian
+62a370635d257a28a30de5eb,6/10/2022,12:25,0:02:51,Data Analyst,Yes,40000,Finance,Python,1.0,1.0,1.0,1.0,1.0,1.0,Very Difficult,Better Salary,Male,35,IN,Bachelors,Other (Please Specify):Indian
+62a37128d8c00e9f541a39dd,6/10/2022,12:28,0:01:57,Data Analyst,No,40000,Automotive,None,5.0,2.0,5.0,5.0,3.0,4.0,Difficult,Better Salary,Male,25,RO,Bachelors,White or Caucasian
+62a3715124a2626027388f02,6/10/2022,12:29,0:01:21,Data Analyst,No,40000,Real Estate,Python,4.0,7.0,9.0,5.0,2.0,8.0,Easy,Better Salary,Male,23,Other,Bachelors,White or Caucasian
+62a37222cf2555431730732d,6/10/2022,12:32,0:02:10,Data Engineer,No,40000,Healthcare,Python,6.0,6.0,6.0,5.0,4.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,MX,Bachelors,Hispanic or Latino
+62a373efbc6861bf3177360b,6/10/2022,12:40,0:02:40,Data Analyst,Yes,225000,Education,SQL,8.0,9.0,9.0,7.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,27,US,Masters,Black or African American
+62a3759e5d257a28a30def3a,6/10/2022,12:47,0:01:24,Data Analyst,Yes,85000,Manufacturing,Python,4.0,10.0,10.0,8.0,5.0,6.0,Neither easy nor difficult,Remote Work,Male,32,US,Bachelors,Asian or Asian American
+62a3777624a262602738997e,6/10/2022,12:55,0:01:55,Data Analyst,Yes,65000,Tech,Python,3.0,5.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,50,CA,Bachelors,White or Caucasian
+62a377987dc029e2d66c638d,6/10/2022,12:55,0:01:25,Data Architect,Yes,85000,Food & Beverage,Python,7.0,7.0,8.0,9.0,10.0,10.0,Neither easy nor difficult,Remote Work,Male,29,US,High School,White or Caucasian
+62a377f424a2626027389af3,6/10/2022,12:57,0:03:54,Data Analyst,Yes,40000,Telecommunication,R,2.0,8.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,41,Other,Bachelors,Hispanic or Latino
+62a3784c0f8c8599d5af8fbc,6/10/2022,12:58,0:01:54,Data Integrety,No,40000,Utilities,R,1.0,7.0,7.0,1.0,4.0,10.0,Neither easy nor difficult,Better Salary,Male,23,US,Associates,White or Caucasian
+62a37a43d8c00e9f541a4a7c,6/10/2022,13:07,0:03:34,Data Analyst,Yes,40000,Finance,Python,4.0,7.0,8.0,7.0,8.0,8.0,Difficult,Better Salary,Male,31,NG,Bachelors,Black or African American
+62a37a7818134ddc75cf0d4c,6/10/2022,13:08,0:01:27,Data Analyst,No,40000,Healthcare,Python,0.0,10.0,10.0,10.0,10.0,10.0,Difficult,Better Salary,Male,22,Other,Bachelors,Native Hawaiian or other Pacific Islander
+62a37aa1cf255543173081e5,6/10/2022,13:08,0:01:51,Data Analyst,No,85000,Finance,Python,3.0,5.0,5.0,5.0,3.0,3.0,Very Difficult,Better Salary,Male,29,US,Masters,Hispanic or Latino
+62a37ad924a2626027389f8a,6/10/2022,13:09,0:02:04,Data Scientist,Yes,40000,Tech,Python,4.0,4.0,4.0,0.0,0.0,6.0,Difficult,Good Culture,Male,23,MY,Bachelors,Other (Please Specify):Indian
+62a37b7db4da29969c636123,6/10/2022,13:12,0:01:25,Student,No,40000,Customer service ,None,0.0,0.0,1.0,1.0,0.0,1.0,Neither easy nor difficult,Remote Work,Female,24,US,High School,Hispanic or Latino
+62a37bab2e54c9003e53a10a,6/10/2022,13:13,0:02:09,Data Analyst,Yes,85000,Manufacturing,Python,5.0,9.0,10.0,10.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,26,US,Bachelors,Black or African American
+62a37c50cec54911e9cacee2,6/10/2022,13:16,0:01:30,Student,Yes,40000,Finance,Python,4.0,3.0,5.0,2.0,2.0,3.0,Difficult,Good Culture,Male,31,IN,Bachelors,Asian or Asian American
+62a37d41bae91e4b8b8369f7,6/10/2022,13:20,0:01:31,Data Analyst,Yes,40000,Sports,Python,1.0,1.0,1.0,1.0,7.0,9.0,Neither easy nor difficult,Remote Work,Male,22,NG,Bachelors,Black or African American
+62a37f8db4da29969c6367bf,6/10/2022,13:29,0:02:32,Data Analyst,Yes,85000,eCommerce,Python,7.0,8.0,10.0,8.0,7.0,5.0,Neither easy nor difficult,Remote Work,Male,31,DE,Bachelors,White or Caucasian
+62a37ff3bae91e4b8b836ed0,6/10/2022,13:31,0:01:21,Student,Yes,40000,Tech,Python,0.0,4.0,0.0,0.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,27,US,Masters,Asian or Asian American
+62a38023575fa3a5ae89339e,6/10/2022,13:32,0:01:32,Student,No,40000,Student,Python,1.0,1.0,2.0,1.0,1.0,1.0,Difficult,Better Salary,Female,25,US,Bachelors,Asian or Asian American
+62a38153cec54911e9cad855,6/10/2022,13:37,0:24:18,Data Analyst,Yes,40000,Healthcare,Python,4.0,10.0,10.0,8.0,8.0,10.0,Easy,Good Work/Life Balance,Male,30,CO,Masters,Hispanic or Latino
+62a381d024a262602738ab19,6/10/2022,13:39,0:01:44,Data Analyst,Yes,65000,Healthcare,R,0.0,6.0,5.0,6.0,0.0,2.0,Easy,Other (Please Specify):Opportunities for growth ,Male,28,US,Masters,Hispanic or Latino
+62a38227bae91e4b8b837235,6/10/2022,13:40,0:01:37,Data Analyst,No,150000,Finance,Python,6.0,6.0,5.0,4.0,2.0,4.0,Easy,Remote Work,Male,26,US,Bachelors,White or Caucasian
+62a38489cf25554317309145,6/10/2022,13:51,0:01:40,Data Scientist,Yes,150000,Retail,Python,6.0,7.0,7.0,10.0,6.0,7.0,Neither easy nor difficult,Remote Work,Female,32,US,Masters,White or Caucasian
+62a384f0cec54911e9cadd6f,6/10/2022,13:52,0:02:41,Data Analyst,Yes,40000,Marketing,SQL,3.0,5.0,6.0,4.0,6.0,6.0,Neither easy nor difficult,Better Salary,Female,40,PL,PhD,White or Caucasian
+62a385480f8c8599d5afa5c6,6/10/2022,13:54,0:02:38,Data Engineer,Yes,40000,Manufacturing,Python,4.0,7.0,7.0,6.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,36,SG,Associates,Asian or Asian American
+62a3856218134ddc75cf1ee0,6/10/2022,13:54,0:01:29,Data Analyst,Yes,85000,Finance,Python,6.0,10.0,9.0,9.0,9.0,10.0,Difficult,Better Salary,Male,35,US,Bachelors,Hispanic or Latino
+62a385c40f8c8599d5afa6cf,6/10/2022,13:56,0:00:59,Data Analyst,Yes,85000,Tech,Python,3.0,4.0,4.0,4.0,5.0,5.0,Very Difficult,Good Work/Life Balance,Male,29,US,Masters,Asian or Asian American
+62a385ddbae91e4b8b837855,6/10/2022,13:56,0:04:08,Data Analyst,No,65000,Finance,Python,6.0,5.0,9.0,9.0,7.0,5.0,Neither easy nor difficult,"Other (Please Specify):I just started and I don't like programming so much, so I would search for a more ""impactiful"" role. Meaning: being able to take decisions that steer the business.",Female,25,DE,Masters,Hispanic or Latino
+62a385e7b4da29969c6372ab,6/10/2022,13:56,0:02:05,Database Developer,Yes,65000,Hospitality,Python,6.0,8.0,8.0,9.0,6.0,8.0,Difficult,Remote Work,Male,29,US,Bachelors,White or Caucasian
+62a386dfcec54911e9cae1d3,6/10/2022,14:01,0:02:04,Data Analyst,No,105000,Agriculture,Python,7.0,6.0,7.0,4.0,5.0,8.0,Difficult,Good Work/Life Balance,Male,26,US,Bachelors,Black or African American
+62a3870bbc6861bf31775841,6/10/2022,14:01,0:02:02,Data Analyst,No,40000,Marketing,R,1.0,1.0,1.0,1.0,1.0,1.0,Neither easy nor difficult,Remote Work,Male,34,GH,Bachelors,Black or African American
+62a38733f8d5efcc22f859fc,6/10/2022,14:02,0:01:27,Data Analyst,Yes,40000,Finance,Python,5.0,2.0,5.0,4.0,3.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,EG,Bachelors,White or Caucasian
+62a387e6575fa3a5ae8940a1,6/10/2022,14:05,0:02:11,Data Analyst,No,40000,Tech,Python,3.0,3.0,5.0,4.0,3.0,2.0,Difficult,Other (Please Specify):Good opportunities in projects and learnjng,Female,22,IN,Bachelors,Asian or Asian American
+62a388d524a262602738b869,6/10/2022,14:09,0:01:40,Student,Yes,40000,Construction,Python,0.0,2.0,0.0,1.0,1.0,2.0,Very Difficult,Remote Work,Female,24,KE,Bachelors,Black or African American
+62a38975b4da29969c637830,6/10/2022,14:12,0:03:09,Data Analyst,No,40000,Medical industry ,Python,3.0,6.0,6.0,6.0,4.0,3.0,Neither easy nor difficult,Better Salary,Male,26,CR,Bachelors,Hispanic or Latino
+62a38985f8f756164585b89c,6/10/2022,14:12,0:03:13,Data Architect,Yes,40000,Finance,Python,5.0,6.0,2.0,3.0,3.0,5.0,Very Difficult,Good Work/Life Balance,Female,34,PT,Masters,White or Caucasian
+62a389b70f8c8599d5afad1a,6/10/2022,14:13,0:02:27,Data Analyst,No,40000,Tech,Python,3.0,5.0,4.0,5.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,29,IN,Bachelors,Asian or Asian American
+62a389ed18134ddc75cf24f8,6/10/2022,14:14,0:01:27,Data Scientist,No,40000,Tech,R,2.0,7.0,7.0,7.0,7.0,7.0,Easy,Better Salary,Male,21,NG,Bachelors,Black or African American
+62a38a060a77c1a77f6654b7,6/10/2022,14:14,0:02:47,Analyst,No,40000,Management,Python,2.0,4.0,5.0,3.0,1.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,MK,Masters,White or Caucasian
+62a38a4d575fa3a5ae8944df,6/10/2022,14:15,0:01:43,Data Analyst,No,65000,Education,Python,7.0,7.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,US,Bachelors,Black or African American
+62a38a97cf25554317309af2,6/10/2022,14:16,0:01:42,Data Analyst,Yes,65000,Warehouse,Python,2.0,4.0,7.0,10.0,5.0,10.0,Neither easy nor difficult,Remote Work,Male,28,US,Bachelors,White or Caucasian
+62a38c120f8c8599d5afb0e9,6/10/2022,14:23,0:02:02,Manager,No,65000,Non-Profit,Python,1.0,5.0,5.0,1.0,0.0,3.0,Easy,Better Salary,Female,33,US,Bachelors,White or Caucasian
+62a38c9dbc6861bf317760c4,6/10/2022,14:25,0:01:57,Data Analyst,Yes,85000,Consulting,SQL,7.0,6.0,5.0,7.0,4.0,4.0,Easy,Better Salary,Female,56,US,Bachelors,White or Caucasian
+62a38de50f8c8599d5afb3e7,6/10/2022,14:31,0:04:30,Developer,No,40000,Insurance,Python,3.0,3.0,6.0,5.0,,4.0,Difficult,Good Work/Life Balance,Male,23,IN,Bachelors,Asian or Asian American
+62a3906224a262602738c58a,6/10/2022,14:41,0:01:16,Data Scientist,Yes,150000,Healthcare,Python,4.0,5.0,5.0,5.0,4.0,5.0,Difficult,Better Salary,Male,28,US,Masters,White or Caucasian
+62a3907cbae91e4b8b838917,6/10/2022,14:42,0:01:44,Student,No,40000,Other,JavaScript,0.0,0.0,0.0,0.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,21,EG,High School,White or Caucasian
+62a390c0d8c00e9f541a6fd7,6/10/2022,14:43,0:02:14,Student,No,85000,Non-Profit,Python,2.0,2.0,4.0,1.0,2.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,US,Masters,Black or African American
+62a390e4f3072dd89262c0cd,6/10/2022,14:43,0:01:25,Data Analyst,No,65000,Healthcare,Python,7.0,5.0,9.0,9.0,9.0,8.0,Neither easy nor difficult,Remote Work,Male,29,IL,Masters,Asian or Asian American
+62a391cacf2555431730a623,6/10/2022,14:47,0:01:18,Data Analyst,No,105000,Tech,Python,9.0,10.0,8.0,8.0,7.0,7.0,Neither easy nor difficult,Other (Please Specify):Projects I�m interested in,Female,23,US,Bachelors,Asian or Asian American
+62a39214f8f756164585c6b6,6/10/2022,14:48,0:03:06,Admin,No,65000,Finance,Python,3.0,3.0,3.0,0.0,0.0,1.0,Difficult,Good Work/Life Balance,Male,25,IN,Bachelors,Asian or Asian American
+62a39297b4da29969c638679,6/10/2022,14:51,0:01:36,Data Engineer,Yes,105000,eCommerce,Python,8.0,7.0,10.0,9.0,10.0,10.0,Easy,Better Salary,Male,27,US,Masters,White or Caucasian
+62a393330a77c1a77f6662e4,6/10/2022,14:53,0:01:54,Data Analyst,No,40000,Tech,Python,3.0,8.0,7.0,5.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,22,IN,Bachelors,Other (Please Specify):Indian
+62a3944024a262602738cb07,6/10/2022,14:58,0:02:02,Data Analyst,Yes,40000,IT,Python,6.0,3.0,5.0,7.0,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,IN,Bachelors,Asian or Asian American
+62a3951ed8c00e9f541a75d1,6/10/2022,15:01,0:01:41,Other,No,125000,Other,Java,7.0,7.0,4.0,5.0,5.0,4.0,Neither easy nor difficult,Better Salary,Male,43,US,Masters,Asian or Asian American
+62a3958fcec54911e9caf827,6/10/2022,15:03,0:05:13,Admin,Yes,40000,Tech,Python,3.0,5.0,8.0,4.0,5.0,5.0,Difficult,Better Salary,Female,32,US,Bachelors,Asian or Asian American
+62a3970ebae91e4b8b839495,6/10/2022,15:10,0:01:06,Student,Yes,85000,Healthcare,Other,,,,,,0.0,Difficult,Good Work/Life Balance,Female,42,US,Masters,Asian or Asian American
+62a3976ecf2555431730af5e,6/10/2022,15:11,0:01:40,Analyst,No,85000,Legal,Python,4.0,6.0,2.0,3.0,3.0,2.0,Very Difficult,Remote Work,Male,31,US,Bachelors,Hispanic or Latino
+62a397fb5d257a28a30e279a,6/10/2022,15:14,0:01:20,Data Engineer,No,40000,Marketing,Python,0.0,10.0,10.0,5.0,0.0,3.0,Neither easy nor difficult,Better Salary,Male,25,UK,Bachelors,White or Caucasian
+62a3980c7dc029e2d66c9a81,6/10/2022,15:14,0:01:49,Data Analyst,No,65000,Agriculture,SQL,3.0,5.0,5.0,5.0,3.0,2.0,Neither easy nor difficult,Better Salary,Female,25,US,Masters,Asian or Asian American
+62a3980e0f8c8599d5afc32c,6/10/2022,15:14,0:01:27,Data Analyst,Yes,125000,Aviation,SAS,9.0,9.0,9.0,6.0,9.0,8.0,Difficult,Good Work/Life Balance,Male,31,US,Masters,Asian or Asian American
+62a39a340f8c8599d5afc6ce,6/10/2022,15:23,0:01:23,Data Scientist,Yes,40000,Education,Python,3.0,3.0,1.0,1.0,1.0,6.0,Difficult,Better Salary,Male,36,MA,Masters,White or Caucasian
+62a39a95bc6861bf3177751d,6/10/2022,15:25,0:02:24,Analyst,No,65000,Healthcare,Python,6.0,8.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,BG,Masters,White or Caucasian
+62a39b315d257a28a30e2cae,6/10/2022,15:27,0:01:40,Data Analyst,Yes,85000,Utilities,R,6.0,10.0,10.0,10.0,9.0,8.0,Easy,Remote Work,Male,28,US,Bachelors,White or Caucasian
+62a39b6cf408bae018ede929,6/10/2022,15:28,0:01:55,Data Analyst,No,40000,Audit Firm,Python,8.0,8.0,9.0,9.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,27,Other,Bachelors,Hispanic or Latino
+62a39bd324a262602738d725,6/10/2022,15:30,0:01:23,Data Analyst,Yes,40000,Sports,Python,7.0,4.0,7.0,4.0,8.0,10.0,Easy,Good Work/Life Balance,Male,25,CR,Bachelors,Hispanic or Latino
+62a39e03f408bae018eded39,6/10/2022,15:39,0:01:59,Data Analyst,No,40000,eCommerce,Python,6.0,6.0,10.0,8.0,6.0,8.0,Neither easy nor difficult,Better Salary,Male,25,PL,Bachelors,White or Caucasian
+62a39e69d8c00e9f541a8358,6/10/2022,15:41,0:01:10,Analyst,No,65000,Marketing,R,5.0,5.0,5.0,5.0,5.0,5.0,Difficult,Good Work/Life Balance,Male,22,US,Masters,White or Caucasian
+62a3a0bcf8f756164585daf7,6/10/2022,15:51,0:03:49,Data Analyst,Yes,65000,Healthcare,None,7.0,8.0,8.0,4.0,6.0,8.0,Neither easy nor difficult,Good Culture,Male,38,DE,High School,White or Caucasian
+62a3a1a62e54c9003e53dc35,6/10/2022,15:55,0:01:47,Data Analyst,Yes,40000,Education,Python,0.0,0.0,5.0,0.0,0.0,0.0,Difficult,Good Culture,Male,27,KE,Bachelors,Black or African American
+62a3a231b4da29969c639b2c,6/10/2022,15:57,0:02:55,Data Analyst,Yes,105000,Consulting,None,4.0,4.0,2.0,2.0,2.0,2.0,Easy,Remote Work,Female,34,CA,Bachelors,Black or African American
+62a3a3800f8c8599d5afd4db,6/10/2022,16:03,0:01:45,Data Analyst,Yes,85000,Non-Profit,Python,9.0,10.0,10.0,9.0,8.0,10.0,Difficult,Better Salary,Female,31,US,Bachelors,White or Caucasian
+62a3a4fdbae91e4b8b83ab6f,6/10/2022,16:09,0:03:52,Data Analyst,Yes,65000,Tech,Python,4.0,9.0,8.0,8.0,6.0,10.0,Neither easy nor difficult,Better Salary,Female,33,CA,Masters,Black or African American
+62a3a7f50a77c1a77f668221,6/10/2022,16:22,0:00:59,Student,Yes,40000,Tech,Python,2.0,5.0,5.0,5.0,5.0,5.0,Very Difficult,Remote Work,Male,23,US,Bachelors,Asian or Asian American
+62a3a90f24a262602738e800,6/10/2022,16:26,0:01:26,Data Analyst,Yes,65000,Healthcare,Excel,3.0,10.0,9.0,10.0,5.0,0.0,Neither easy nor difficult,Better Salary,Female,25,US,Bachelors,Asian or Asian American
+62a3a9dbd8c00e9f541a93eb,6/10/2022,16:30,0:01:54,Data Analyst,Yes,40000,Tech,Python,4.0,4.0,4.0,5.0,2.0,1.0,Difficult,Better Salary,Male,29,IR,Masters,White or Caucasian
+62a3aaa3cec54911e9cb1724,6/10/2022,16:33,0:02:16,Data Engineer,Yes,65000,Healthcare,R,5.0,7.0,9.0,8.0,8.0,8.0,Neither easy nor difficult,Better Salary,Female,29,US,Masters,Black or African American
+62a3ab320f8c8599d5afdfa8,6/10/2022,16:36,0:01:45,Data Analyst,Yes,40000,Tech,R,3.0,4.0,4.0,4.0,4.0,2.0,Easy,Better Salary,Male,31,IN,Masters,Asian or Asian American
+62a3abacd8c00e9f541a96eb,6/10/2022,16:38,0:01:33,Student,No,40000,Real Estate,R,0.0,5.0,0.0,0.0,0.0,0.0,Very Difficult,Remote Work,Male,34,ZA,High School,Black or African American
+62a3ac4bf8f756164585ea83,6/10/2022,16:40,0:02:04,Data Analyst,Yes,40000,Tech,Python,3.0,2.0,4.0,3.0,7.0,8.0,Easy,Good Work/Life Balance,Male,26,BD,Bachelors,Other (Please Specify):Bangladeshi
+62a3ad35cec54911e9cb1b5c,6/10/2022,16:44,0:01:34,Data Scientist,No,105000,Healthcare,Python,4.0,6.0,5.0,6.0,6.0,4.0,Neither easy nor difficult,Remote Work,Female,26,US,Bachelors,White or Caucasian
+62a3ae69bc6861bf3177900d,6/10/2022,16:49,0:02:55,Quality Improvement,Yes,65000,Law Enforcement,DAX,3.0,6.0,9.0,6.0,5.0,10.0,Difficult,Other (Please Specify):Mentorship from leading Data Analyst,Male,27,US,Masters,Black or African American
+62a3af26cec54911e9cb1f3a,6/10/2022,16:52,0:01:42,Data Analyst,Yes,85000,Logistics,Python,8.0,5.0,9.0,6.0,6.0,10.0,Neither easy nor difficult,Remote Work,Male,26,US,Bachelors,White or Caucasian
+62a3af66f8f756164585eeb8,6/10/2022,16:53,0:03:01,Student,Yes,40000,Tech,Python,4.0,5.0,4.0,4.0,3.0,4.0,Very Difficult,Better Salary,Female,26,US,Masters,Asian or Asian American
+62a3b135b4da29969c63b1ed,6/10/2022,17:01,0:01:18,Data Analyst,Yes,65000,Finance,R,2.0,5.0,5.0,5.0,4.0,5.0,Easy,Better Salary,Male,24,US,Bachelors,White or Caucasian
+62a3b255d8c00e9f541a9fd5,6/10/2022,17:06,0:02:18,Data Analyst,Yes,105000,Retail,Python,4.0,6.0,3.0,4.0,4.0,2.0,Easy,Better Salary,Female,28,IE,Masters,Other (Please Specify):Indian
+62a3b314f408bae018ee0938,6/10/2022,17:09,0:01:18,Data Analyst,Yes,125000,Manufacturing,R,8.0,8.0,10.0,9.0,7.0,5.0,Easy,Better Salary,Male,29,US,Bachelors,White or Caucasian
+62a3b3f6bc6861bf3177973b,6/10/2022,17:13,0:01:02,Data Analyst,Yes,85000,Finance,Python,3.0,2.0,1.0,1.0,0.0,2.0,Very Difficult,Better Salary,Female,26,US,Masters,Asian or Asian American
+62a3ba4dbc6861bf31779f24,6/10/2022,17:40,0:01:19,Data Analyst,Yes,65000,Aerospace,Python,3.0,5.0,3.0,3.0,1.0,1.0,Neither easy nor difficult,Better Salary,Male,28,UK,Bachelors,White or Caucasian
+62a3baa624a262602738ff27,6/10/2022,17:41,0:04:19,Data Analyst,No,40000,Finance,Python,6.0,8.0,7.0,6.0,2.0,4.0,Easy,Other (Please Specify):Intresting work,Male,25,FR,Masters,White or Caucasian
+62a3bc00d8c00e9f541aad66,6/10/2022,17:47,0:01:30,Data Analyst,Yes,85000,Finance,R,5.0,7.0,7.0,3.0,7.0,9.0,Difficult,Better Salary,Female,26,US,Bachelors,Asian or Asian American
+62a3bf1b0a77c1a77f66a347,6/10/2022,18:00,0:05:36,Data Engineer,Yes,150000,Healthcare,Python,6.0,3.0,9.0,5.0,8.0,8.0,Neither easy nor difficult,Remote Work,Female,38,US,Masters,White or Caucasian
+62a3c021f8f756164586043f,6/10/2022,18:05,0:02:00,Other,Yes,40000,Government,SQL,0.0,3.0,3.0,3.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,20,NG,High School,Black or African American
+62a3c1b1bc6861bf3177aa8c,6/10/2022,18:12,0:02:04,Data Analyst,No,85000,Education,SQL,4.0,6.0,7.0,7.0,2.0,2.0,Neither easy nor difficult,Remote Work,Female,45,US,Masters,Black or African American
+62a3c30324a26260273909b9,6/10/2022,18:17,0:01:18,Data Analyst,No,105000,Marketing,Python,5.0,3.0,5.0,6.0,6.0,4.0,Difficult,Good Work/Life Balance,Male,27,CA,Masters,Other (Please Specify):Pakistani
+62a3c476bc6861bf3177ad9d,6/10/2022,18:23,0:02:58,Data Analyst,Yes,65000,Consulting,Python,3.0,7.0,7.0,7.0,7.0,6.0,Difficult,Good Culture,Male,28,CA,Masters,Asian or Asian American
+62a3c5f2cec54911e9cb3d9b,6/10/2022,18:30,0:04:30,Student,Yes,40000,Student,R,2.0,10.0,10.0,10.0,10.0,3.0,Neither easy nor difficult,Remote Work,Female,29,DE,Bachelors,Other (Please Specify):Russian
+62a3c7f1bc6861bf3177b06e,6/10/2022,18:38,0:01:57,Manager,No,65000,Tech,C/C++,7.0,7.0,7.0,7.0,7.0,7.0,Neither easy nor difficult,Better Salary,Female,43,SG,High School,Asian or Asian American
+62a3c8652e54c9003e54103e,6/10/2022,18:40,0:02:27,Data Analyst,Yes,40000,Finance,Python,0.0,5.0,9.0,9.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,26,AQ,Bachelors,Black or African American
+62a3ca44bae91e4b8b83dcd4,6/10/2022,18:48,0:04:17,Student,No,65000,Tech,SQL,7.0,8.0,7.0,7.0,8.0,7.0,Neither easy nor difficult,"Other (Please Specify):Mix of better salary, good work/life balance, remote work and good culture",Female,47,US,Bachelors,Black or African American
+62a3cafff8d5efcc22f8b5cb,6/10/2022,18:51,0:01:42,Student,Yes,40000,Finance,Python,,,,8.0,10.0,10.0,Easy,Remote Work,Male,23,NG,Bachelors,Black or African American
+62a3cbfef8d5efcc22f8b6f1,6/10/2022,18:55,0:01:20,Data Analyst,Yes,40000,Tech,Python,0.0,1.0,1.0,1.0,1.0,2.0,Very Difficult,Better Salary,Male,25,EG,Bachelors,Other (Please Specify):Egyp
+62a3cde8f8f7561645861366,6/10/2022,19:04,0:02:02,Admin,No,40000,Finance,Python,6.0,6.0,3.0,7.0,2.0,4.0,Very Difficult,Other (Please Specify):Learning opportunity,Male,32,PL,Masters,White or Caucasian
+62a3cfed0f8c8599d5b00b12,6/10/2022,19:12,0:01:09,Data Analyst,Yes,40000,Finance,Python,1.0,10.0,10.0,5.0,3.0,1.0,Neither easy nor difficult,Better Salary,Female,25,US,Bachelors,White or Caucasian
+62a3d21ef3072dd8926314d1,6/10/2022,19:22,0:02:40,Data Analyst,No,40000,Finance,Python,1.0,2.0,10.0,1.0,2.0,8.0,Difficult,Remote Work,Female,29,VE,Bachelors,Hispanic or Latino
+62a3d37c0a77c1a77f66bc0e,6/10/2022,19:27,0:01:11,Data Analyst,No,65000,Healthcare,SQL,3.0,7.0,5.0,5.0,3.0,3.0,Neither easy nor difficult,Better Salary,Female,33,US,Bachelors,Asian or Asian American
+62a3d8dbf8f7561645861f9d,6/10/2022,19:50,0:04:51,Data Analyst,No,125000,Education,Python,6.0,10.0,10.0,10.0,7.0,6.0,Easy,Other (Please Specify):Learning New Things,Male,36,US,Masters,Asian or Asian American
+62a3d9697dc029e2d66cf087,6/10/2022,19:53,0:01:32,Data Analyst,Yes,65000,Healthcare,Python,4.0,10.0,9.0,3.0,0.0,10.0,Difficult,Good Work/Life Balance,Male,25,US,Bachelors,White or Caucasian
+62a3dac9f3072dd892631e12,6/10/2022,19:59,0:03:19,Data Scientist,No,225000,Other,Python,8.0,7.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,38,US,Masters,White or Caucasian
+62a3dc3ab4da29969c63e3d7,6/10/2022,20:05,0:03:42,Data Analyst,Yes,85000,Utilities,R,3.0,2.0,6.0,6.0,5.0,4.0,Difficult,Good Work/Life Balance,Male,30,US,Masters,Other (Please Specify):Half black and half white
+62a3e2abf8f75616458628d1,6/10/2022,20:32,0:01:48,Data Analyst,Yes,65000,Tech,Python,3.0,5.0,6.0,6.0,6.0,7.0,Difficult,Good Culture,Male,35,US,Masters,Black or African American
+62a3e32bd8c00e9f541ad5f0,6/10/2022,20:34,0:01:44,Other,No,65000,Education,SQL,0.0,1.0,10.0,5.0,0.0,0.0,Difficult,Better Salary,Female,42,US,Bachelors,White or Caucasian
+62a3ecf7bc6861bf3177d5c2,6/10/2022,21:16,0:01:40,Data Analyst,Yes,85000,Healthcare,Python,3.0,5.0,4.0,6.0,4.0,6.0,Easy,Remote Work,Male,30,US,Masters,White or Caucasian
+62a3eea9bae91e4b8b8401a4,6/10/2022,21:23,0:01:57,Student,Yes,40000,Other,Python,0.0,0.0,0.0,0.0,0.0,4.0,Very Difficult,Better Salary,Female,25,NG,Bachelors,Black or African American
+62a3f39df8d5efcc22f8ddc2,6/10/2022,21:45,1:09:45,Data Analyst,No,105000,Healthcare,Python,5.0,9.0,5.0,2.0,5.0,1.0,Difficult,Good Culture,Female,28,US,Bachelors,Asian or Asian American
+62a3f6a25d257a28a30e9d02,6/10/2022,21:57,0:04:54,Data Analyst,Yes,40000,Manufacturing,Python,5.0,10.0,8.0,5.0,7.0,10.0,Very Difficult,Other (Please Specify):Salary and expo,Male,28,CA,Bachelors,Asian or Asian American
+62a3f6d9bae91e4b8b8408ca,6/10/2022,21:58,0:00:59,Student,No,40000,Student,SQL,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Better Salary,Male,20,MY,High School,Asian or Asian American
+62a3fc7c7dc029e2d66d10e8,6/10/2022,22:22,0:02:26,Data Analyst,Yes,125000,Construction,Excel,7.0,8.0,7.0,7.0,10.0,10.0,Easy,Good Culture,Male,33,US,Masters,Hispanic or Latino
+62a3fe0d5d257a28a30ea3c8,6/10/2022,22:29,0:12:09,Data Analyst,No,85000,Tech,Python,8.0,6.0,7.0,7.0,8.0,8.0,Easy,Better Salary,Male,23,US,Associates,White or Caucasian
+62a3fea50a77c1a77f66e41b,6/10/2022,22:32,0:00:43,Data Analyst,Yes,40000,Healthcare,R,4.0,5.0,7.0,7.0,5.0,7.0,Neither easy nor difficult,Better Salary,Female,35,BR,Bachelors,Hispanic or Latino
+62a40276bc6861bf3177e6fd,6/10/2022,22:48,0:04:01,Student,Yes,40000,Automotive,Python,2.0,2.0,3.0,3.0,2.0,3.0,Difficult,Good Work/Life Balance,Male,22,IN,Bachelors,Asian or Asian American
+62a403bbf8d5efcc22f8eb18,6/10/2022,22:53,0:02:40,Data Analyst,Yes,40000,Tech,Python,5.0,10.0,5.0,6.0,6.0,8.0,Very Difficult,Better Salary,Male,33,IN,Bachelors,Asian or Asian American
+62a403d30f8c8599d5b03d65,6/10/2022,22:54,0:00:59,Data Engineer,No,40000,Real Estate,Python,1.0,7.0,7.0,7.0,1.0,2.0,Very Easy,Better Salary,Male,22,US,Bachelors,White or Caucasian
+62a4044acf25554317312a81,6/10/2022,22:56,0:03:27,Data Analyst,Yes,105000,Supply Chain,R,7.0,8.0,8.0,7.0,5.0,9.0,Neither easy nor difficult,Remote Work,Male,35,US,Bachelors,White or Caucasian
+62a4061bf408bae018ee5deb,6/10/2022,23:03,0:02:55,Data Analyst,Yes,85000,Agriculture,SQL,8.0,5.0,6.0,4.0,4.0,8.0,Easy,Good Work/Life Balance,Female,37,US,Masters,White or Caucasian
+62a40726575fa3a5ae89d990,6/10/2022,23:08,0:00:51,Student,Yes,40000,Finance,Python,4.0,,,,,,Very Easy,Better Salary,Male,22,US,Associates,Other (Please Specify):7
+62a4098124a2626027394ddc,6/10/2022,23:18,0:02:12,Data Analyst,Yes,85000,Healthcare,Python,10.0,10.0,10.0,7.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,36,US,Masters,White or Caucasian
+62a40c99575fa3a5ae89de4b,6/10/2022,23:31,0:02:29,Data Scientist,Yes,105000,Consulting,Python,6.0,5.0,8.0,8.0,7.0,9.0,Easy,Good Work/Life Balance,Male,26,IN,Bachelors,Hispanic or Latino
+62a40d86d8c00e9f541afb5e,6/10/2022,23:35,0:05:15,Data Analyst,Yes,40000,Marketing,R,3.0,2.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Good Culture,Female,25,KR,Bachelors,Asian or Asian American
+62a40da3cf255543173132e2,6/10/2022,23:36,0:02:55,Data Analyst,Yes,65000,Law,R,4.0,6.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,34,US,High School,White or Caucasian
+62a40dfa5d257a28a30eb110,6/10/2022,23:37,0:02:58,Data Analyst,Yes,40000,Food & Beverage,Python,4.0,8.0,8.0,8.0,7.0,8.0,Difficult,Remote Work,Male,33,CL,Bachelors,Hispanic or Latino
+62a410b5cec54911e9cb8262,6/10/2022,23:49,0:02:00,Student,No,65000,Retail,Python,0.0,4.0,0.0,1.0,4.0,2.0,Very Difficult,Good Work/Life Balance,Male,37,US,Bachelors,White or Caucasian
+62a41135bc6861bf3177f3d8,6/10/2022,23:51,0:01:27,Data Analyst,No,85000,Marketing,Python,5.0,5.0,7.0,6.0,4.0,6.0,Very Easy,Better Salary,Female,54,US,High School,White or Caucasian
+62a41795cec54911e9cb8854,6/11/2022,0:18,0:00:59,Data Analyst,Yes,40000,Finance,Python,2.0,,,,,,Very Easy,Better Salary,Male,26,IN,Bachelors,Asian or Asian American
+62a41964d8c00e9f541b061d,6/11/2022,0:26,0:01:49,Data Analyst,No,65000,Education,R,4.0,7.0,7.0,7.0,2.0,7.0,Neither easy nor difficult,Better Salary,Female,27,US,Masters,Hispanic or Latino
+62a41968f8d5efcc22f8fd44,6/11/2022,0:26,0:02:20,Database Developer,Yes,40000,Telecommunication,SQL,2.0,3.0,6.0,6.0,3.0,5.0,Difficult,Better Salary,Male,24,UK,Bachelors,White or Caucasian
+62a41e23bc6861bf3177fffb,6/11/2022,0:46,0:01:41,Data Analyst,Yes,40000,Finance,Python,5.0,5.0,5.0,5.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,24,EG,Bachelors,White or Caucasian
+62a421cebc6861bf317803f5,6/11/2022,1:02,0:01:29,Consultant,Yes,40000,Consulting,Python,3.0,4.0,5.0,3.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,27,Other,Bachelors,White or Caucasian
+62a42243f8d5efcc22f90c55,6/11/2022,1:04,0:01:37,Student,No,40000,Other,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Remote Work,Male,25,ID,Bachelors,Asian or Asian American
+62a424ccd8c00e9f541b114e,6/11/2022,1:14,0:02:47,Data Analyst,Yes,40000,Tech,Python,1.0,7.0,7.0,7.0,7.0,1.0,Difficult,Better Salary,Female,28,UK,Masters,Black or African American
+62a42527b4da29969c6423f7,6/11/2022,1:16,0:01:23,Developer,No,65000,Education,Python,3.0,6.0,5.0,5.0,3.0,4.0,Easy,Remote Work,Male,21,US,Bachelors,Asian or Asian American
+62a425ec2e54c9003e5467bf,6/11/2022,1:19,0:01:15,Data Analyst,Yes,105000,Healthcare,Other,4.0,4.0,5.0,5.0,4.0,6.0,Difficult,Good Work/Life Balance,Female,28,US,Bachelors,White or Caucasian
+62a427190a77c1a77f67095c,6/11/2022,1:24,0:03:20,Data Analyst,Yes,40000,Tech,Python,3.0,5.0,5.0,5.0,5.0,2.0,Neither easy nor difficult,Remote Work,Male,30,GH,Masters,Black or African American
+62a429f0f3072dd892636396,6/11/2022,1:36,0:02:39,Data Analyst,No,40000,Education,Python,0.0,10.0,0.0,9.0,5.0,10.0,Easy,Remote Work,Male,24,AO,Associates,Black or African American
+62a42d6ef8d5efcc22f9178a,6/11/2022,1:51,0:02:01,Data Analyst,Yes,40000,Healthcare,Python,7.0,4.0,6.0,5.0,6.0,6.0,Difficult,Remote Work,Male,26,IN,Bachelors,Other (Please Specify):Indian
+62a436fd24a2626027397c93,6/11/2022,2:32,0:03:23,Data Analyst,Yes,40000,Tech,Python,,,,,,5.0,Neither easy nor difficult,Good Work/Life Balance,Female,19,BD,High School,Asian or Asian American
+62a43e86f408bae018ee913a,6/11/2022,3:04,0:04:03,Student,No,40000,Customer service,Python,5.0,6.0,6.0,5.0,1.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Female,92,IN,Masters,Asian or Asian American
+62a43ed4f8d5efcc22f92d0a,6/11/2022,3:05,0:02:33,Data Analyst,Yes,40000,Healthcare,Python,1.0,8.0,5.0,1.0,7.0,8.0,Neither easy nor difficult,Remote Work,Male,28,NG,Bachelors,Black or African American
+62a43f43f408bae018ee9281,6/11/2022,3:07,0:01:34,Student,Yes,40000,Education,Python,0.0,1.0,2.0,2.0,1.0,1.0,Neither easy nor difficult,Better Salary,Female,24,IN,Masters,Asian or Asian American
+62a440ab575fa3a5ae8a1418,6/11/2022,3:13,0:03:39,Analyst,No,65000,Healthcare,Python,7.0,10.0,10.0,10.0,5.0,10.0,Easy,Better Salary,Male,25,US,Masters,Asian or Asian American
+62a441e3575fa3a5ae8a1552,6/11/2022,3:18,0:04:04,Data Analyst,Yes,65000,Finance,Python,4.0,5.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,42,UK,Masters,Black or African American
+62a446faf8f7561645868c60,6/11/2022,3:40,0:01:05,Data Analyst,Yes,40000,Tech,Python,2.0,3.0,3.0,3.0,3.0,3.0,Difficult,Better Salary,Male,21,IN,Bachelors,Asian or Asian American
+62a448832e54c9003e5491c5,6/11/2022,3:47,0:02:36,Data Analyst,No,85000,Healthcare,Python,7.0,8.0,9.0,7.0,7.0,6.0,Easy,Better Salary,Male,24,US,Bachelors,White or Caucasian
+62a44ae2f8f7561645869335,6/11/2022,3:57,0:02:32,Data Analyst,Yes,65000,Healthcare,Python,4.0,7.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Female,26,US,Bachelors,White or Caucasian
+62a44bc7bc6861bf31783829,6/11/2022,4:01,0:01:16,Data Analyst,Yes,40000,Cosmetics,Python,2.0,8.0,8.0,9.0,8.0,10.0,Difficult,Better Salary,Male,30,UK,Bachelors,White or Caucasian
+62a44ea3f408bae018eea62a,6/11/2022,4:13,0:05:51,Data Engineer,Yes,105000,Marketing,SQL,6.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Culture,Male,27,US,Bachelors,Black or African American
+62a4514ff408bae018eea94d,6/11/2022,4:24,0:02:01,Data Engineer,Yes,40000,Tech,Python,0.0,4.0,1.0,0.0,1.0,3.0,Easy,Better Salary,Male,28,IN,Bachelors,Asian or Asian American
+62a45a140a77c1a77f67469d,6/11/2022,5:02,0:02:27,Data Analyst,No,85000,Real Estate,SQL,6.0,8.0,7.0,7.0,5.0,6.0,Easy,Better Salary,Female,29,UK,Bachelors,White or Caucasian
+62a45c8bf3072dd89263a493,6/11/2022,5:12,0:02:43,Data Analyst,No,40000,Construction,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Good Work/Life Balance,Female,26,IN,Bachelors,Asian or Asian American
+62a45f8c0f8c8599d5b09d40,6/11/2022,5:25,0:02:47,Data Engineer,Yes,40000,Finance,Python,3.0,3.0,3.0,3.0,3.0,4.0,Neither easy nor difficult,Remote Work,Male,29,NG,Bachelors,Black or African American
+62a4604d0a77c1a77f674e29,6/11/2022,5:28,0:01:51,Business Analyst,No,85000,Finance,None,3.0,5.0,7.0,2.0,5.0,7.0,Easy,Remote Work,Male,60,UK,Masters,White or Caucasian
+62a46a66f8d5efcc22f95a7a,6/11/2022,6:11,0:01:55,Data Analyst,Yes,40000,Healthcare,Python,5.0,8.0,8.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,25,NG,Bachelors,Black or African American
+62a46ad7d8c00e9f541b664a,6/11/2022,6:13,0:03:13,Analyst,No,40000,Construction,R,0.0,0.0,1.0,3.0,2.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Female,37,NG,Masters,Other (Please Specify):African 
+62a46dbecf25554317319e48,6/11/2022,6:26,0:01:31,Data Analyst,Yes,85000,Finance,Python,6.0,8.0,3.0,4.0,5.0,1.0,Neither easy nor difficult,Better Salary,Female,30,CA,Bachelors,Asian or Asian American
+62a475dcf408bae018eed15c,6/11/2022,7:00,0:04:48,Data Analyst,Yes,40000,Healthcare,Python,0.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Better Salary,Female,27,NG,Masters,Black or African American
+62a477f0b4da29969c64892f,6/11/2022,7:09,0:01:04,Data Scientist,Yes,300000,Tech,R,5.0,6.0,5.0,5.0,6.0,6.0,Difficult,Other (Please Specify):In office work,Male,31,US,PhD,White or Caucasian
+62a47947cec54911e9cbf6b2,6/11/2022,7:15,0:02:11,Student,No,40000,Student,R,10.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,UK,Masters,Asian or Asian American
+62a47c587dc029e2d66d9782,6/11/2022,7:28,0:03:11,Data Analyst,No,40000,Finance,Python,0.0,6.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,20,US,Bachelors,Black or African American
+62a47e3ef3072dd89263c8c0,6/11/2022,7:36,0:02:30,Developer,No,40000,Tech,R,2.0,1.0,4.0,1.0,1.0,1.0,Easy,Good Work/Life Balance,Male,24,IN,Bachelors,Asian or Asian American
+62a47e812e54c9003e54d789,6/11/2022,7:37,0:01:32,Student,Yes,40000,Manufacturing,R,3.0,6.0,7.0,6.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,RO,Bachelors,White or Caucasian
+62a47ea87dc029e2d66d9b60,6/11/2022,7:38,0:01:30,Student,No,40000,Unemployed,R,0.0,1.0,3.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,41,Other,Bachelors,Hispanic or Latino
+62a47f1e0a77c1a77f677174,6/11/2022,7:40,0:02:12,Data Analyst,Yes,105000,Tech,R,8.0,8.0,8.0,8.0,8.0,8.0,Difficult,Better Salary,Male,41,US,Bachelors,White or Caucasian
+62a48566b4da29969c64995a,6/11/2022,8:07,0:01:52,Manager,No,225000,Retail,Python,9.0,8.0,9.0,10.0,8.0,10.0,Neither easy nor difficult,Good Culture,Male,43,US,Bachelors,White or Caucasian
+62a48612d8c00e9f541b86b8,6/11/2022,8:09,0:01:53,Data Analyst,No,85000,Healthcare,Python,7.0,7.0,8.0,4.0,6.0,9.0,Easy,Remote Work,Female,38,US,Bachelors,White or Caucasian
+62a487167dc029e2d66da73e,6/11/2022,8:14,0:01:53,Data Analyst,Yes,40000,Retail,Python,5.0,5.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,28,Other,Bachelors,Asian or Asian American
+62a488197dc029e2d66da8a1,6/11/2022,8:18,0:01:30,Data Analyst,Yes,105000,Healthcare,Python,10.0,8.0,6.0,10.0,7.0,5.0,Neither easy nor difficult,Good Culture,Female,31,DE,Bachelors,Hispanic or Latino
+62a48c4c24a262602739e141,6/11/2022,8:36,0:01:31,Data Analyst,Yes,105000,Government,SAS,8.0,7.0,8.0,6.0,7.0,8.0,Difficult,Good Work/Life Balance,Female,28,US,Masters,White or Caucasian
+62a48cbdf408bae018eeeccf,6/11/2022,8:38,0:00:55,Data Analyst,No,65000,Healthcare,C/C++,7.0,8.0,9.0,9.0,4.0,9.0,Easy,Remote Work,Male,23,US,Masters,Asian or Asian American
+62a48d4df8d5efcc22f98308,6/11/2022,8:40,0:01:47,Data Analyst,No,65000,Utilities,Python,5.0,5.0,4.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,25,UK,Bachelors,Black or African American
+62a48d562e54c9003e54ea2b,6/11/2022,8:40,0:01:22,Software Engineer,No,40000,Tech,R,2.0,5.0,2.0,8.0,9.0,10.0,Difficult,Remote Work,Male,26,PL,Masters,White or Caucasian
+62a48da6b4da29969c64a3a5,6/11/2022,8:42,0:00:47,Data Scientist,Yes,150000,Finance,Python,9.0,4.0,8.0,7.0,5.0,6.0,Difficult,Good Work/Life Balance,Male,35,US,Bachelors,White or Caucasian
+62a49012f408bae018eef16d,6/11/2022,8:52,0:01:43,Data Analyst,Yes,125000,Retail,R,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Remote Work,Male,30,DK,Masters,White or Caucasian
+62a491b3b4da29969c64a89e,6/11/2022,8:59,0:01:38,Data Analyst,Yes,105000,Tech,R,3.0,,,,,,Neither easy nor difficult,Better Salary,Male,35,UK,Bachelors,White or Caucasian
+62a4926ef408bae018eef4ee,6/11/2022,9:02,0:02:06,Data Analyst,Yes,40000,Telecommunication,Python,0.0,8.0,5.0,5.0,2.0,2.0,Easy,Better Salary,Male,28,Other,Bachelors,Hispanic or Latino
+62a495d724a262602739ee07,6/11/2022,9:17,0:02:01,Student,No,40000,Tech,Python,0.0,2.0,3.0,3.0,2.0,3.0,Easy,Good Work/Life Balance,Female,24,NG,Bachelors,Black or African American
+62a49b3cb4da29969c64b5dc,6/11/2022,9:40,0:04:32,Data Analyst,Yes,65000,Tech,Python,8.0,10.0,7.0,5.0,6.0,5.0,Neither easy nor difficult,Good Culture,Female,34,US,Bachelors,White or Caucasian
+62a49e087dc029e2d66dc57e,6/11/2022,9:52,0:01:52,Data Analyst,Yes,65000,Tech,Python,3.0,5.0,4.0,5.0,3.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Female,31,DE,Masters,White or Caucasian
+62a49e47b4da29969c64b9f9,6/11/2022,9:53,0:01:06,Data Analyst,Yes,40000,Tech,Python,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Good Work/Life Balance,Male,30,UK,Masters,Asian or Asian American
+62a49e5f24a262602739f9af,6/11/2022,9:53,0:01:28,Data Engineer,Yes,105000,Logistics,JavaScript,4.0,4.0,1.0,6.0,1.0,5.0,Difficult,Better Salary,Male,40,UK,Bachelors,White or Caucasian
+62a49fe7b4da29969c64bbe1,6/11/2022,10:00,0:02:02,Data Analyst,No,65000,Consulting,R,4.0,10.0,10.0,10.0,8.0,6.0,Very Difficult,Better Salary,Male,26,US,Bachelors,Hispanic or Latino
+62a4a3d4f8d5efcc22f9a051,6/11/2022,10:16,0:01:00,Data Analyst,No,150000,Healthcare,R,9.0,9.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Good Culture,Male,25,US,Bachelors,White or Caucasian
+62a4a8cb0a77c1a77f67a405,6/11/2022,10:38,0:02:27,Data Analyst,Yes,40000,Maritime,SQL,,5.0,8.0,4.0,8.0,4.0,Easy,Good Culture,Male,45,GR,Associates,White or Caucasian
+62a4abb30f8c8599d5b0fc24,6/11/2022,10:50,0:03:12,Data Analyst,No,65000,Finance,R,7.0,9.0,8.0,6.0,6.0,9.0,Neither easy nor difficult,Good Culture,Male,26,US,Masters,Black or African American
+62a4afd87dc029e2d66ddb24,6/11/2022,11:08,0:01:43,Data Scientist,No,40000,Finance,Python,7.0,7.0,8.0,6.0,6.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,IN,Masters,Other (Please Specify):Indian
+62a4b085cec54911e9cc3afe,6/11/2022,11:11,0:02:44,Other,Yes,40000,Finance,Python,3.0,2.0,4.0,2.0,2.0,3.0,Difficult,Better Salary,Male,23,IN,Masters,Asian or Asian American
+62a4b23f5d257a28a30f6b8c,6/11/2022,11:18,0:00:56,Data Engineer,Yes,125000,Tech,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,IN,Masters,Asian or Asian American
+62a4b29a5d257a28a30f6c63,6/11/2022,11:19,0:01:11,Data Analyst,Yes,65000,Healthcare,R,4.0,5.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,33,US,High School,White or Caucasian
+62a4b2e5f8f75616458712af,6/11/2022,11:21,0:02:02,Business Analyst,No,40000,eCommerce,SQL,6.0,3.0,3.0,6.0,6.0,4.0,Very Easy,Other (Please Specify):Learning new skills,Male,33,IN,Bachelors,Asian or Asian American
+62a4b6c30a77c1a77f67b54c,6/11/2022,11:37,0:01:13,Data Analyst,Yes,105000,Healthcare,R,7.0,8.0,7.0,8.0,3.0,4.0,Easy,Good Culture,Male,27,US,Bachelors,White or Caucasian
+62a4bf07b4da29969c64e4f8,6/11/2022,12:12,0:01:59,Data Analyst,Yes,125000,Tech,Python,9.0,9.0,9.0,8.0,8.0,9.0,Difficult,Remote Work,Female,28,US,Masters,Hispanic or Latino
+62a4bf3a0a77c1a77f67bef2,6/11/2022,12:13,0:03:18,Data Analyst,Yes,85000,Tech,Python,5.0,6.0,7.0,6.0,6.0,7.0,Very Easy,Better Salary,Male,32,US,Bachelors,Hispanic or Latino
+62a4c49a575fa3a5ae8aadf4,6/11/2022,12:36,0:01:24,Data Analyst,Yes,40000,Tech,Python,2.0,6.0,3.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,35,IN,Masters,Asian or Asian American
+62a4c57af3072dd8926421ac,6/11/2022,12:40,0:01:49,Data Analyst,Yes,105000,Real Estate,Python,8.0,9.0,10.0,10.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,34,US,Masters,Hispanic or Latino
+62a4c6060a77c1a77f67c772,6/11/2022,12:42,0:01:39,Data Analyst,No,65000,Electronics,Python,9.0,8.0,3.0,5.0,2.0,4.0,Easy,Better Salary,Male,27,DE,Masters,White or Caucasian
+62a4c7d0f8f7561645872912,6/11/2022,12:50,0:02:30,Quality Improvement,Yes,85000,Education,R,4.0,5.0,5.0,3.0,3.0,4.0,Easy,Good Culture,Female,30,US,Masters,White or Caucasian
+62a4cdfad8c00e9f541bdc6b,6/11/2022,13:16,0:02:06,Data Analyst,No,85000,Logistics,Python,8.0,9.0,9.0,9.0,9.0,10.0,Neither easy nor difficult,Better Salary,Male,34,US,Masters,White or Caucasian
+62a4ce2bbae91e4b8b84f3db,6/11/2022,13:17,0:02:20,Analyst,No,65000,Utilities,Python,3.0,10.0,6.0,5.0,7.0,8.0,Neither easy nor difficult,Remote Work,Female,22,US,Bachelors,White or Caucasian
+62a4cffeb4da29969c64f6a1,6/11/2022,13:25,0:01:02,Data Analyst,Yes,40000,Finance,Python,2.0,2.0,5.0,5.0,2.0,3.0,Very Difficult,Good Work/Life Balance,Female,33,IN,Masters,Asian or Asian American
+62a4d08bf3072dd892642d2c,6/11/2022,13:27,0:01:53,Data Analyst,No,40000,Finance,Python,8.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Better Salary,Female,26,IN,Masters,Asian or Asian American
+62a4d13bbae91e4b8b84f89b,6/11/2022,13:30,0:01:36,Data Engineer,Yes,40000,Tech,Python,0.0,5.0,8.0,6.0,5.0,7.0,Neither easy nor difficult,Better Salary,Male,28,AR,Bachelors,Hispanic or Latino
+62a4d74c5d257a28a30f97fc,6/11/2022,13:56,0:05:32,Other,No,40000,Transportation,Python,2.0,2.0,7.0,4.0,8.0,1.0,Difficult,Remote Work,Male,42,UK,Bachelors,Other (Please Specify):Bla
+62a4d7f6bae91e4b8b84ffed,6/11/2022,13:59,0:02:06,Data Analyst,No,40000,Urbanism,R,4.0,10.0,2.0,3.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,30,MA,Masters,Other (Please Specify):Moroccan
+62a4d9d4bae91e4b8b8501f1,6/11/2022,14:07,0:01:22,Data Scientist,Yes,125000,Tech,SQL,10.0,9.0,8.0,8.0,9.0,10.0,Difficult,Better Salary,Male,25,US,Associates,White or Caucasian
+62a4dd63f408bae018ef4e51,6/11/2022,14:22,0:01:00,Data Analyst,Yes,65000,Construction,Python,4.0,6.0,6.0,6.0,5.0,7.0,Easy,Better Salary,Male,32,US,Bachelors,Black or African American
+62a4e34d7dc029e2d66e10b9,6/11/2022,14:47,0:01:56,Data Analyst,No,40000,Tech,Python,3.0,4.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,31,DE,Masters,Asian or Asian American
+62a4e4c90f8c8599d5b13d8f,6/11/2022,14:54,10:34:43,Data Analyst,Yes,225000,Education,Python,8.0,7.0,5.0,4.0,7.0,7.0,Easy,Remote Work,Male,30,AE,High School,White or Caucasian
+62a4e5aed8c00e9f541bf48c,6/11/2022,14:57,0:02:26,Student,Yes,40000,Retail,Python,0.0,6.0,6.0,2.0,0.0,3.0,Neither easy nor difficult,Better Salary,Male,23,CA,Bachelors,Asian or Asian American
+62a4f6eef3072dd892645775,6/11/2022,16:11,0:02:17,Manager,No,85000,Education,R,7.0,7.0,6.0,7.0,6.0,6.0,Easy,Remote Work,Female,31,UK,Bachelors,White or Caucasian
+62a4fe370f8c8599d5b158c4,6/11/2022,16:42,0:02:40,Data Analyst,No,65000,Aviation,Python,7.0,5.0,9.0,9.0,4.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Female,29,FI,Masters,Black or African American
+62a5008c5d257a28a30fbde5,6/11/2022,16:52,0:02:38,Data Analyst,Yes,40000,Tech,Python,5.0,4.0,4.0,5.0,7.0,10.0,Neither easy nor difficult,Remote Work,Male,24,NG,Bachelors,Other (Please Specify):African
+62a5038acec54911e9cc9526,6/11/2022,17:05,0:02:38,Analyst,No,65000,Other,Python,2.0,7.0,6.0,5.0,6.0,4.0,Neither easy nor difficult,Better Salary,Male,36,US,Masters,Asian or Asian American
+62a50775f8f756164587677b,6/11/2022,17:21,0:02:29,Data Analyst,Yes,65000,Real Estate,R,4.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote Work,Female,32,US,Masters,White or Caucasian
+62a50eddf8d5efcc22fa1a4e,6/11/2022,17:53,0:03:55,Business Analyst,Yes,105000,Healthcare,Python,8.0,9.0,7.0,7.0,7.0,9.0,Difficult,Remote Work,Female,36,US,Bachelors,White or Caucasian
+62a511acbc6861bf3179178a,6/11/2022,18:05,0:01:53,Data Engineer,No,125000,Healthcare,SQL,8.0,6.0,5.0,2.0,3.0,2.0,Easy,Better Salary,Male,30,US,Bachelors,White or Caucasian
+62a5177d18134ddc75d0e9d8,6/11/2022,18:30,0:05:09,Student,Yes,40000,Unemployed,R,0.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,42,SS,Masters,Black or African American
+62a51aaacec54911e9cca93b,6/11/2022,18:43,0:03:26,Data Analyst,Yes,105000,Healthcare,DAX,6.0,6.0,6.0,5.0,4.0,4.0,Easy,Remote Work,Male,53,AU,PhD,White or Caucasian
+62a51dc6575fa3a5ae8b09f3,6/11/2022,18:57,0:03:17,Data Analyst,No,40000,Finance,Python,1.0,7.0,4.0,10.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,25,KE,High School,Other (Please Specify):Indian 
+62a51fe0575fa3a5ae8b0c06,6/11/2022,19:06,0:02:21,Data Analyst,No,40000,Healthcare,Python,1.0,5.0,4.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,23,LB,Bachelors,White or Caucasian
+62a525aff8f75616458784dd,6/11/2022,19:30,0:03:25,Data Analyst,Yes,40000,Agriculture,Python,2.0,1.0,3.0,3.0,3.0,4.0,Difficult,Better Salary,Male,36,SA,Bachelors,Other (Please Specify):Arab 
+62a52629b4da29969c654a94,6/11/2022,19:32,0:09:42,Data Analyst,Yes,65000,Healthcare,SQL,,,,,,6.0,Easy,Good Work/Life Balance,Male,32,AE,Bachelors,Other (Please Specify):Sudanese African 
+62a52725d8c00e9f541c3b4a,6/11/2022,19:37,0:01:23,Data Analyst,No,105000,Finance,Python,3.0,6.0,4.0,2.0,2.0,3.0,Difficult,Other (Please Specify):Challenging / exciting problems,Male,25,US,Masters,Hispanic or Latino
+62a5390cb4da29969c655ccc,6/11/2022,20:53,0:03:19,Data Engineer,Yes,65000,Tech,Python,4.0,4.0,3.0,4.0,4.0,5.0,Neither easy nor difficult,Remote Work,Female,35,UK,Masters,Asian or Asian American
+62a53bc0bc6861bf31793947,6/11/2022,21:05,0:01:19,Data Analyst,Yes,85000,Other,R,3.0,4.0,4.0,5.0,4.0,4.0,Very Easy,Better Salary,Male,26,US,Bachelors,White or Caucasian
+62a53c84f3072dd8926495c9,6/11/2022,21:08,0:01:07,Student,No,40000,Tech,Python,2.0,7.0,9.0,7.0,3.0,3.0,Difficult,Remote Work,Male,22,US,Bachelors,White or Caucasian
+62a54bccf3072dd89264a13b,6/11/2022,22:13,0:01:43,Data Scientist,Yes,105000,Automotive,Python,6.0,8.0,10.0,9.0,6.0,8.0,Neither easy nor difficult,Better Salary,Male,30,CA,Masters,Asian or Asian American
+62a54f20d8c00e9f541c5cfa,6/11/2022,22:27,0:02:37,Data Analyst,Yes,85000,Supply Chain,Python,2.0,8.0,6.0,1.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,36,US,Masters,White or Caucasian
+62a552e1cf2555431732922d,6/11/2022,22:43,0:02:25,Data Analyst,Yes,85000,Healthcare,R,4.0,4.0,5.0,5.0,4.0,6.0,Neither easy nor difficult,Other (Please Specify):All of the above,Female,30,US,Masters,White or Caucasian
+62a557d10f8c8599d5b1a81c,6/11/2022,23:04,0:01:35,Data Scientist,Yes,125000,Finance,Python,9.0,8.0,10.0,10.0,10.0,10.0,Difficult,Remote Work,Male,29,US,Bachelors,Asian or Asian American
+62a55b05f8d5efcc22fa5b65,6/11/2022,23:18,0:04:47,Business Analyst,Yes,85000,Consulting,R,8.0,10.0,10.0,7.0,8.0,5.0,Difficult,Other (Please Specify):Data Maturity,Male,30,US,Masters,White or Caucasian
+62a55fe1f8d5efcc22fa5fe4,6/11/2022,23:39,0:01:03,Data Engineer,No,65000,Finance,Python,0.0,6.0,6.0,6.0,6.0,6.0,Very Easy,Better Salary,Male,24,US,Bachelors,Black or African American
+62a56bc67dc029e2d66e86c0,6/12/2022,0:29,0:01:37,Data Engineer,Yes,300000,Tech,SQL,3.0,3.0,4.0,4.0,3.0,5.0,Neither easy nor difficult,Better Salary,Male,33,US,Bachelors,Asian or Asian American
+62a57116f408bae018efd56a,6/12/2022,0:52,0:01:37,Data Analyst,No,125000,Food & Beverage,Python,10.0,10.0,10.0,10.0,10.0,6.0,Easy,Better Salary,Female,42,US,Bachelors,White or Caucasian
+62a57263cec54911e9ccf648,6/12/2022,0:58,0:01:54,Data Analyst,Yes,65000,Healthcare,Python,1.0,10.0,10.0,8.0,10.0,3.0,Neither easy nor difficult,Better Salary,Female,36,US,Bachelors,White or Caucasian
+62a574b3b4da29969c658eb4,6/12/2022,1:08,0:01:43,Data Analyst,Yes,65000,Research,Python,2.0,3.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,27,US,Bachelors,White or Caucasian
+62a58b267dc029e2d66ea3f8,6/12/2022,2:43,0:01:35,Data Analyst,No,40000,Tech,Python,8.0,7.0,8.0,7.0,7.0,9.0,Easy,Other (Please Specify):Opportunity to learn,Female,21,IN,Bachelors,Asian or Asian American
+62a58d20575fa3a5ae8b6969,6/12/2022,2:52,0:01:31,Data Analyst,Yes,65000,Healthcare,Python,8.0,5.0,8.0,8.0,5.0,10.0,Difficult,Remote Work,Female,34,IL,Masters,White or Caucasian
+62a58faf2e54c9003e55ef2e,6/12/2022,3:03,0:01:20,Student,No,40000,Education,Python,2.0,5.0,5.0,5.0,2.0,4.0,Difficult,Better Salary,Male,27,NL,Bachelors,White or Caucasian
+62a5998fbc6861bf31798ef0,6/12/2022,3:45,0:01:58,Consultant,Yes,40000,Tech,Python,7.0,8.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Good Culture,Male,27,FR,Masters,White or Caucasian
+62a59cd2cec54911e9cd251a,6/12/2022,3:59,0:03:34,Student,No,40000,Education,R,1.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,30,KE,Associates,Other (Please Specify):African 
+62a59d007dc029e2d66eb8f9,6/12/2022,4:00,0:01:29,Data Analyst,Yes,85000,Government,SQL,2.0,0.0,0.0,0.0,0.0,2.0,Difficult,Better Salary,Female,33,US,Bachelors,White or Caucasian
+62a5a124cec54911e9cd29f5,6/12/2022,4:17,0:01:57,Data Analyst,Yes,105000,Finance,Python,3.0,3.0,4.0,4.0,4.0,4.0,Difficult,Good Culture,Male,47,IN,Masters,American Indian or Alaska Native
+62a5a44b24a26260273af0fc,6/12/2022,4:31,0:01:34,Data Analyst,Yes,85000,Retail,SQL,4.0,5.0,4.0,5.0,4.0,4.0,Difficult,Other (Please Specify):Better work & remote salary,Male,27,US,Masters,Asian or Asian American
+62a5a931cec54911e9cd3333,6/12/2022,4:52,0:03:19,Data Analyst,No,40000,Healthcare,Python,6.0,7.0,8.0,7.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,26,IN,Bachelors,Asian or Asian American
+62a5bea05d257a28a3106f7e,6/12/2022,6:23,0:01:41,Data Analyst,No,40000,Finance,Python,2.0,3.0,2.0,5.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,35,IN,Masters,Asian or Asian American
+62a5c571575fa3a5ae8baaa1,6/12/2022,6:52,0:01:11,Data Analyst,Yes,105000,Education,Python,0.0,1.0,1.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Male,31,US,Masters,Hispanic or Latino
+62a5cb12cf25554317330d69,6/12/2022,7:16,0:03:44,Data Analyst,Yes,40000,Education,Python,2.0,1.0,2.0,3.0,4.0,3.0,Difficult,Remote Work,Male,25,ZM,Bachelors,Black or African American
+62a5cba2575fa3a5ae8bb122,6/12/2022,7:18,0:02:11,Data Engineer,Yes,85000,Real Estate,Python,3.0,10.0,8.0,8.0,10.0,10.0,Easy,Remote Work,Male,27,US,Bachelors,White or Caucasian
+62a5d350f3072dd892652c70,6/12/2022,7:51,0:01:57,Data Analyst,Yes,65000,Tech,Python,5.0,8.0,3.0,2.0,4.0,8.0,Neither easy nor difficult,Good Culture,Male,32,NL,Bachelors,White or Caucasian
+62a5db29cf2555431733248f,6/12/2022,8:25,0:02:42,Student,Yes,40000,Real Estate,Python,0.0,3.0,3.0,3.0,3.0,6.0,Difficult,Good Work/Life Balance,Male,47,PT,Bachelors,White or Caucasian
+62a5e69f24a26260273b42bf,6/12/2022,9:14,0:01:31,Database Manager,No,85000,Finance,Python,0.0,10.0,10.0,5.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Female,30,US,Masters,Asian or Asian American
+62a5ea667dc029e2d66f153d,6/12/2022,9:30,0:01:52,Data Analyst,Yes,125000,Government,Python,8.0,6.0,6.0,7.0,9.0,10.0,Easy,Better Salary,Female,35,US,Masters,Black or African American
+62a5ebe05d257a28a310ac53,6/12/2022,9:36,0:02:16,Data Analyst,Yes,65000,Finance,Python,6.0,9.0,5.0,7.0,8.0,9.0,Difficult,Remote Work,Male,25,US,High School,Hispanic or Latino
+62a5edb2575fa3a5ae8bdba5,6/12/2022,9:44,0:03:02,Data Architecture,No,85000,Food & Beverage,Python,3.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,27,US,Bachelors,White or Caucasian
+62a5edba0a77c1a77f68f1b5,6/12/2022,9:44,0:01:20,Data Analyst,Yes,65000,Healthcare,R,1.0,5.0,3.0,3.0,6.0,5.0,Difficult,Remote Work,Female,27,US,Masters,Black or African American
+62a5f332bc6861bf3179f631,6/12/2022,10:07,0:01:52,Student,No,40000,Consulting,Python,1.0,8.0,8.0,1.0,3.0,7.0,Very Easy,Better Salary,Female,23,IN,Masters,Asian or Asian American
+62a5f872bae91e4b8b861e53,6/12/2022,10:30,0:02:10,Data Scientist,No,65000,Manufacturing,Python,9.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Culture,Male,18,US,Bachelors,White or Caucasian
+62a609b8f8f75616458875b7,6/12/2022,11:43,0:01:42,Data Analyst,Yes,40000,Healthcare,Python,8.0,10.0,9.0,6.0,8.0,9.0,Easy,Remote Work,Female,28,CR,Masters,Hispanic or Latino
+62a609c4bc6861bf317a10a3,6/12/2022,11:44,0:01:20,Manager,Yes,150000,Healthcare,Python,7.0,6.0,8.0,8.0,8.0,7.0,Easy,Remote Work,Male,28,US,Bachelors,White or Caucasian
+62a61076f8f7561645887ded,6/12/2022,12:12,0:01:35,Student,No,40000,Unemployed,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Good Work/Life Balance,Female,26,US,Bachelors,American Indian or Alaska Native
+62a615fd18134ddc75d1f1fa,6/12/2022,12:36,0:01:57,Student,No,40000,Education,Python,0.0,0.0,3.0,0.0,0.0,8.0,Difficult,Better Salary,Male,27,GH,Bachelors,Black or African American
+62a617c30a77c1a77f6925fc,6/12/2022,12:43,0:02:48,Data Analyst,No,65000,Tech,Python,9.0,7.0,9.0,10.0,10.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Female,22,IN,Masters,Asian or Asian American
+62a618a9d8c00e9f541d3537,6/12/2022,12:47,0:01:56,Data Analyst,Yes,40000,Tech,R,0.0,8.0,7.0,6.0,3.0,9.0,Very Difficult,Better Salary,Male,27,US,High School,White or Caucasian
+62a61eb02e54c9003e5697f7,6/12/2022,13:13,0:01:43,Data Engineer,Yes,40000,Food & Beverage,Python,5.0,7.0,6.0,8.0,7.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,28,IN,Bachelors,Asian or Asian American
+62a6246df3072dd892659218,6/12/2022,13:37,0:01:46,Data Analyst,Yes,40000,Tech,Python,3.0,2.0,4.0,3.0,3.0,3.0,Neither easy nor difficult,Better Salary,Male,25,NG,High School,Black or African American
+62a62a7124a26260273b94fa,6/12/2022,14:03,0:01:52,Data Analyst,No,40000,Healthcare,Python,2.0,6.0,6.0,7.0,7.0,9.0,Difficult,Better Salary,Male,32,UK,Bachelors,Hispanic or Latino
+62a631782e54c9003e56ac36,6/12/2022,14:33,0:10:34,Student,Yes,40000,Finance,SQL,7.0,9.0,10.0,10.0,3.0,4.0,Easy,Remote Work,Male,33,UY,Bachelors,White or Caucasian
+62a633b4d8c00e9f541d54a4,6/12/2022,14:43,0:02:53,Data Analyst,No,65000,Government,Python,5.0,6.0,5.0,2.0,3.0,3.0,Easy,Remote Work,Male,23,CA,Masters,Black or African American
+62a639e05d257a28a3110ef5,6/12/2022,15:09,0:01:49,Student,Yes,40000,Finance,R,4.0,5.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,40,NG,Bachelors,Black or African American
+62a642690f8c8599d5b2ab37,6/12/2022,15:45,0:02:39,Data Analyst,Yes,65000,Consulting,Python,7.0,9.0,9.0,9.0,7.0,9.0,Easy,Better Salary,Female,28,UK,Bachelors,Asian or Asian American
+62a64b4dd8c00e9f541d6d81,6/12/2022,16:23,0:03:50,Data Analyst,No,40000,Real Estate,R,3.0,7.0,8.0,6.0,6.0,9.0,Difficult,Remote Work,Male,26,NG,High School,Black or African American
+62a64c6ecf2555431733a7a4,6/12/2022,16:28,0:03:59,Consultant,Yes,40000,Tech,Python,3.0,5.0,5.0,4.0,3.0,2.0,Difficult,Better Salary,Female,24,IN,Bachelors,Asian or Asian American
+62a654165d257a28a3112ac9,6/12/2022,17:01,0:02:04,Software Engineer,Yes,105000,Finance,Python,7.0,5.0,5.0,8.0,8.0,8.0,Neither easy nor difficult,Remote Work,Female,40,US,Associates,Other (Please Specify):Bi-racial people should be able to check 2 options in 2022. 
+62a65618d8c00e9f541d783a,6/12/2022,17:09,0:01:46,Data Analyst,Yes,85000,Consulting,Python,8.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Better Salary,Male,26,US,Bachelors,Black or African American
+62a65db824a26260273bc9ff,6/12/2022,17:42,0:02:29,Data Scientist,Yes,65000,Consulting,Python,8.0,8.0,10.0,10.0,10.0,10.0,Easy,Good Culture,Female,44,UK,Bachelors,White or Caucasian
+62a66558cf2555431733c0f9,6/12/2022,18:14,0:01:58,Developer,Yes,85000,Insurance,Python,7.0,9.0,8.0,8.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,36,US,Masters,White or Caucasian
+62a6772c18134ddc75d25895,6/12/2022,19:30,0:01:37,Business Analyst,Yes,40000,Other,Python,1.0,5.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,30,CR,Bachelors,Hispanic or Latino
+62a68f1e0a77c1a77f69a381,6/12/2022,21:13,0:04:36,Manager,Yes,40000,Construction,Python,3.0,3.0,3.0,2.0,2.0,2.0,Very Easy,Good Work/Life Balance,Male,48,ID,Masters,Other (Please Specify):Melayu
+62a6a11a0a77c1a77f69b7cb,6/12/2022,22:29,0:03:16,Data Analyst,Yes,65000,Construction,Php,1.0,4.0,1.0,2.0,2.0,3.0,Easy,Better Salary,Female,30,CA,Masters,Asian or Asian American
+62a6ac1524a26260273c1cd0,6/12/2022,23:16,0:04:53,Data Engineer,No,40000,Telecommunication,Python,3.0,8.0,8.0,5.0,3.0,5.0,Difficult,Better Salary,Male,28,IN,Bachelors,Other (Please Specify):Dravidian
+62a6b0790a77c1a77f69cb15,6/12/2022,23:35,0:01:58,Data Engineer,No,40000,Tech,Python,5.0,8.0,7.0,7.0,3.0,2.0,Difficult,Better Salary,Male,25,IN,Bachelors,Other (Please Specify):Indian
+62a6bc6a18134ddc75d2a726,6/13/2022,0:26,0:01:30,Data Engineer,No,125000,Tech,SQL,6.0,5.0,4.0,4.0,3.0,4.0,Easy,Better Salary,Male,24,US,Masters,American Indian or Alaska Native
+62a6c3d9cec54911e9ce7669,6/13/2022,0:58,0:02:51,Data Analyst,Yes,65000,Non-Profit,Python,5.0,10.0,7.0,7.0,4.0,8.0,Easy,Better Salary,Male,31,US,Bachelors,Black or African American
+62a6d037cec54911e9ce862a,6/13/2022,1:50,0:01:47,Data Engineer,No,40000,Real Estate,Python,3.0,3.0,8.0,9.0,5.0,3.0,Easy,Better Salary,Male,23,UK,Bachelors,Other (Please Specify):arab
+62a6d2532e54c9003e575d9c,6/13/2022,1:59,0:03:06,Data Analyst,No,65000,Emergency Services,DAX,1.0,4.0,4.0,1.0,1.0,4.0,Easy,Good Culture,Female,48,UK,Masters,White or Caucasian
+62a6dbcad8c00e9f541e1050,6/13/2022,2:40,0:01:00,Data Analyst,Yes,85000,Healthcare,Python,6.0,9.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,28,US,Bachelors,Black or African American
+62a6e2815d257a28a311c8f9,6/13/2022,3:08,0:02:04,Data Analyst,Yes,65000,Retail,Python,5.0,7.0,7.0,7.0,7.0,7.0,Difficult,Better Salary,Male,32,UK,Masters,Hispanic or Latino
+62a6ea03d8c00e9f541e3594,6/13/2022,3:40,0:04:45,Data Scientist,Yes,65000,Finance,Python,5.0,7.0,7.0,4.0,5.0,7.0,Neither easy nor difficult,Better Salary,Male,30,HK,Bachelors,Asian or Asian American
+62a7029ff8f7561645899bae,6/13/2022,5:25,0:03:29,Data Analyst,Yes,40000,Insurance,Python,5.0,5.0,7.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,32,TN,Masters,White or Caucasian
+62a7047c24a26260273c9646,6/13/2022,5:33,0:01:50,Data Analyst,Yes,40000,Tech,Python,0.0,3.0,0.0,1.0,0.0,0.0,Easy,Good Culture,Female,30,Other,Masters,Other (Please Specify):Asian
+62a70b55cec54911e9cedd98,6/13/2022,6:03,0:02:49,Data Analyst,Yes,40000,Manufacturing,Python,4.0,2.0,5.0,2.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,Other,Masters,White or Caucasian
+62a71930bae91e4b8b878b2b,6/13/2022,7:02,0:03:13,Student,Yes,40000,Tech,R,,,,,,10.0,Easy,Remote Work,Female,38,UK,Masters,Black or African American
+62a73a37f8d5efcc22fcb724,6/13/2022,9:23,0:01:09,Manager,Yes,85000,Retail,Python,6.0,6.0,7.0,7.0,6.0,7.0,Easy,Good Culture,Female,30,US,Masters,Asian or Asian American
+62a73aa824a26260273d0172,6/13/2022,9:24,0:01:26,Data Analyst,Yes,65000,Tech,Python,3.0,3.0,5.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,48,US,Bachelors,White or Caucasian
+62a73c5b0a77c1a77f6aba65,6/13/2022,9:32,0:01:26,Data Analyst,Yes,85000,Finance,SAS,5.0,8.0,5.0,5.0,5.0,4.0,Easy,Remote Work,Male,32,CA,Masters,Asian or Asian American
+62a749ebd8c00e9f541efa36,6/13/2022,10:30,0:01:12,Manager,Yes,65000,Telecommunication,Python,4.0,5.0,4.0,5.0,5.0,6.0,Difficult,Good Work/Life Balance,Male,27,IN,Bachelors,American Indian or Alaska Native
+62a74e28b4da29969c681108,6/13/2022,10:48,0:01:34,Owner,No,65000,Tech,Python,7.0,9.0,5.0,6.0,6.0,7.0,Easy,Other (Please Specify):The work,Male,27,UK,Masters,White or Caucasian
+62a758185d257a28a312bc94,6/13/2022,11:30,0:02:45,Student,No,40000,Finance,Python,8.0,7.0,6.0,7.0,8.0,10.0,Neither easy nor difficult,Remote Work,Male,24,KE,Bachelors,Other (Please Specify):African
+62a75a5418134ddc75d3d2f1,6/13/2022,11:40,0:00:43,Data Scientist,Yes,225000,Finance,R,9.0,9.0,9.0,9.0,8.0,8.0,Difficult,Better Salary,Male,42,US,PhD,Asian or Asian American
+62a75ed0f8f75616458a5d1a,6/13/2022,11:59,0:02:58,Business Analyst,No,65000,Tech,Python,8.0,6.0,6.0,8.0,7.0,8.0,Neither easy nor difficult,Better Salary,Male,24,US,Bachelors,Hispanic or Latino
+62a75f1b575fa3a5ae8e0010,6/13/2022,12:00,0:01:08,Database Developer,Yes,40000,Tech,Python,5.0,9.0,7.0,7.0,6.0,9.0,Easy,Better Salary,Male,23,IN,Bachelors,Asian or Asian American
+62a764ffd8c00e9f541f3cc3,6/13/2022,12:25,0:01:21,Data Analyst,No,40000,Tech,Python,7.0,9.0,8.0,8.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,26,IN,Bachelors,Asian or Asian American
+62a76c962e54c9003e588661,6/13/2022,12:57,0:02:01,Data Analyst,No,65000,Real estate,SQL,5.0,6.0,6.0,2.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,32,DE,Bachelors,Black or African American
+62a772da575fa3a5ae8e2a4a,6/13/2022,13:24,0:02:52,Data Engineer,No,40000,Telecommunication,Python,4.0,3.0,2.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,AR,Bachelors,White or Caucasian
+62a7738a2e54c9003e589598,6/13/2022,13:27,0:01:18,Data Analyst,Yes,125000,Healthcare,Python,4.0,3.0,4.0,2.0,2.0,2.0,Easy,Good Work/Life Balance,Male,41,US,High School,White or Caucasian
+62a77967f8d5efcc22fd4c81,6/13/2022,13:52,0:00:59,Analyst,No,65000,Education,Python,4.0,9.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,25,US,Masters,White or Caucasian
+62a77a37f8d5efcc22fd4e47,6/13/2022,13:56,0:01:04,Data Analyst,Yes,40000,Construction,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Female,28,US,Masters,Asian or Asian American
+62a77cb7b4da29969c68743a,6/13/2022,14:06,0:00:50,Data Analyst,Yes,65000,Agriculture,Python,3.0,6.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,29,US,Bachelors,White or Caucasian
+62a78743f8f75616458ab6bb,6/13/2022,14:51,0:01:30,Student,No,40000,Telecommunication,Python,8.0,10.0,6.0,7.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,19,US,High School,White or Caucasian
+62a789015d257a28a3132977,6/13/2022,14:59,0:01:25,Data Analyst,Yes,65000,Insurance,Python,5.0,6.0,9.0,6.0,7.0,10.0,Neither easy nor difficult,Better Salary,Male,27,IN,Bachelors,Asian or Asian American
+62a78f3bf408bae018f2ef51,6/13/2022,15:25,0:01:33,Student,Yes,40000,Finance,Python,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,25,Other,Bachelors,White or Caucasian
+62a7988bbae91e4b8b88b8ee,6/13/2022,16:05,0:01:46,Data Analyst,Yes,65000,Non-Profit,Python,6.0,10.0,10.0,10.0,10.0,8.0,Difficult,Better Salary,Female,26,CA,Masters,Asian or Asian American
+62a79c9c2e54c9003e58f0d5,6/13/2022,16:22,0:02:42,Data Analyst,Yes,40000,Healthcare,Python,3.0,4.0,5.0,5.0,4.0,5.0,Difficult,Good Work/Life Balance,Male,25,Other,Bachelors,White or Caucasian
+62a7b0ae0f8c8599d5b51cd0,6/13/2022,17:48,0:00:50,Data Analyst,Yes,40000,Manufacturing,Python,6.0,6.0,9.0,9.0,10.0,10.0,Neither easy nor difficult,Remote Work,Male,25,PT,Bachelors,White or Caucasian
+62a7b283f8d5efcc22fdc189,6/13/2022,17:56,0:01:57,Data Analyst,Yes,40000,Healthcare,R,2.0,3.0,4.0,3.0,3.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,LR,Bachelors,Black or African American
+62a7b296f8d5efcc22fdc1ef,6/13/2022,17:56,0:01:07,Data Analyst,Yes,150000,Education,Python,8.0,8.0,7.0,6.0,7.0,9.0,Neither easy nor difficult,Good Culture,Male,35,US,Bachelors,White or Caucasian
+62a7bd0e5d257a28a313855c,6/13/2022,18:41,0:01:23,Data Analyst,Yes,105000,Retail,Python,6.0,7.0,7.0,6.0,7.0,6.0,Difficult,Remote Work,Male,29,US,Masters,Black or African American
+62a7be5e5d257a28a313876a,6/13/2022,18:46,0:01:45,Data Analyst,Yes,105000,Tech,Python,7.0,6.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,Better Salary,Female,41,US,Associates,Hispanic or Latino
+62a7ce44575fa3a5ae8ece5f,6/13/2022,19:54,0:01:15,Student,No,40000,Education,Python,0.0,6.0,4.0,5.0,2.0,4.0,Very Difficult,Remote Work,Female,22,US,Bachelors,Hispanic or Latino
+62a7e1380f8c8599d5b55fcf,6/13/2022,21:15,0:02:30,Data Analyst,Yes,85000,Healthcare,None,2.0,6.0,6.0,4.0,3.0,3.0,Difficult,Better Salary,Male,35,US,Bachelors,Hispanic or Latino
+62a7e2d024a26260273e4448,6/13/2022,21:22,0:02:04,Data Analyst,Yes,85000,Finance,Python,4.0,3.0,4.0,4.0,4.0,6.0,Very Difficult,Better Salary,Male,30,Other,Bachelors,Asian or Asian American
+62a7ed9c0f8c8599d5b57132,6/13/2022,22:08,0:01:13,Data Engineer,No,225000,Real Estate,Python,4.0,6.0,3.0,2.0,3.0,3.0,Neither easy nor difficult,Good Culture,Male,37,CA,Bachelors,Asian or Asian American
+62a7f09a0f8c8599d5b57526,6/13/2022,22:21,0:03:15,Data Analyst,Yes,85000,Aviation,Python,6.0,7.0,7.0,5.0,5.0,9.0,Difficult,Better Salary,Female,28,US,Masters,Black or African American
+62a7fb02f8d5efcc22fe2486,6/13/2022,23:05,0:00:58,Data Analyst,No,105000,Real Estate,Python,7.0,5.0,6.0,6.0,4.0,6.0,Neither easy nor difficult,Good Culture,Male,23,US,High School,White or Caucasian
+62a816907dc029e2d6725a33,6/14/2022,1:03,0:01:54,Student,No,40000,Finance,Python,3.0,4.0,8.0,5.0,5.0,3.0,Neither easy nor difficult,Better Salary,Male,26,US,High School,Asian or Asian American
+62a84764bc6861bf317d7b86,6/14/2022,4:31,0:01:22,Data Analyst,No,85000,Logistics,Python,2.0,4.0,4.0,3.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,AU,Bachelors,Native Hawaiian or other Pacific Islander
+62a84f9af408bae018f41e34,6/14/2022,5:06,0:01:27,Data Analyst,No,40000,Tech,Python,0.0,1.0,2.0,1.0,1.0,1.0,Neither easy nor difficult,Remote Work,Male,23,IN,Bachelors,Asian or Asian American
+62a85803f8d5efcc22fea92f,6/14/2022,5:42,0:02:53,Student,Yes,40000,Unemployed,None,0.0,1.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Male,53,NG,Bachelors,Black or African American
+62a8592f7dc029e2d672c0a8,6/14/2022,5:47,0:01:37,Data Engineer,Yes,40000,Tech,Python,4.0,6.0,6.0,3.0,7.0,9.0,Neither easy nor difficult,Better Salary,Female,33,RO,Bachelors,White or Caucasian
+62a8643bcec54911e9d14297,6/14/2022,6:34,0:04:29,Student,Yes,40000,Finance,R,3.0,5.0,5.0,4.0,5.0,6.0,Difficult,Better Salary,Male,39,Other,High School,Black or African American
+62a8665c5d257a28a31474f7,6/14/2022,6:43,0:01:05,Data Analyst,Yes,40000,Healthcare,Excel,6.0,7.0,5.0,7.0,7.0,9.0,Difficult,Better Salary,Female,22,UK,Bachelors,White or Caucasian
+62a868c5cf2555431737094b,6/14/2022,6:53,0:01:34,Data Analyst,No,65000,Finance,Python,4.0,7.0,7.0,7.0,5.0,5.0,Easy,Better Salary,Male,24,DE,Bachelors,White or Caucasian
+62a88e9ff8d5efcc22ff1eb6,6/14/2022,9:35,0:01:36,Data Architect,No,105000,Utilities,Python,5.0,1.0,3.0,1.0,4.0,5.0,Difficult,Good Work/Life Balance,Male,31,CA,High School,White or Caucasian
+62a89e365d257a28a314fd36,6/14/2022,10:41,0:00:53,Data Analyst,Yes,40000,Retail,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,25,Other,Bachelors,Asian or Asian American
+62a8b6ffbae91e4b8b8aa5c2,6/14/2022,12:27,0:02:07,Student,No,40000,Tech,R,4.0,7.0,7.0,6.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,25,IN,Bachelors,Asian or Asian American
+62a8bf9e575fa3a5ae907617,6/14/2022,13:04,0:02:07,Data Analyst,No,40000,Tech,Python,3.0,4.0,4.0,4.0,2.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,23,IN,Bachelors,Asian or Asian American
+62a8cd29bc6861bf317ea9a2,6/14/2022,14:02,0:01:56,Analyst,Yes,65000,Marketing,SQL,6.0,7.0,7.0,7.0,7.0,6.0,Neither easy nor difficult,Other (Please Specify):Remote too,Male,23,IN,Bachelors,Asian or Asian American
+62a8f477f408bae018f5869d,6/14/2022,16:49,0:01:35,Data Analyst,No,105000,Healthcare,Python,8.0,9.0,8.0,8.0,8.0,9.0,Difficult,Better Salary,Male,40,US,High School,White or Caucasian
+62a8fcf5cf25554317384604,6/14/2022,17:26,0:02:02,Data Analyst,No,65000,Non-Profit,C/C++,5.0,6.0,6.0,2.0,0.0,4.0,Neither easy nor difficult,Better Salary,Male,29,US,Bachelors,Hispanic or Latino
+62a8fe9abc6861bf317f0c01,6/14/2022,17:33,0:03:16,Data Analyst,Yes,40000,Tech,Python,1.0,7.0,5.0,5.0,4.0,4.0,Difficult,Better Salary,Male,28,IN,Bachelors,Other (Please Specify):South Indian 
+62a9024d18134ddc75d6e76d,6/14/2022,17:49,0:01:44,Data Analyst,Yes,40000,Healthcare,R,3.0,6.0,6.0,4.0,6.0,3.0,Very Easy,Better Salary,Female,28,UK,Masters,Black or African American
+62a95253bae91e4b8b8b91d9,6/14/2022,23:30,0:01:02,Student,Yes,40000,Telecommunication,Python,0.0,3.0,3.0,4.0,5.0,5.0,Difficult,Good Work/Life Balance,Female,26,IN,Masters,Asian or Asian American
+62a960567dc029e2d6749dd8,6/15/2022,0:30,0:02:43,Data Engineer,No,65000,Construction,Python,6.0,8.0,8.0,5.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,30,NL,Masters,White or Caucasian
+62a9612bf8d5efcc22007c09,6/15/2022,0:33,0:01:26,Data Analyst,Yes,85000,Education,SQL,5.0,9.0,7.0,9.0,8.0,9.0,Neither easy nor difficult,Better Salary,Male,27,AU,Bachelors,Asian or Asian American
+62a962380f8c8599d5b7e3fb,6/15/2022,0:38,0:01:24,Data Analyst,Yes,40000,Retail,None,2.0,0.0,5.0,3.0,0.0,3.0,Very Difficult,Remote Work,Male,28,NG,Bachelors,Black or African American
+62a993537dc029e2d674e9b5,6/15/2022,4:07,0:02:08,Data Analyst,No,85000,Education,Python,3.0,3.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,38,NG,Masters,Black or African American
+62a9bb81bc6861bf3180079c,6/15/2022,6:59,0:01:56,Data Analyst,No,40000,Finance,Python,2.0,6.0,5.0,5.0,6.0,6.0,Easy,Good Culture,Male,22,MX,Bachelors,White or Caucasian
+62a9c880f408bae018f6aa1b,6/15/2022,7:54,0:01:32,Data Analyst,Yes,105000,Utilities,Python,7.0,8.0,9.0,9.0,9.0,9.0,Difficult,Better Salary,Male,34,US,Bachelors,Hispanic or Latino
+62a9e206f3072dd8926bce70,6/15/2022,9:43,0:02:07,Data Analyst,No,40000,Tech,Python,3.0,8.0,8.0,5.0,7.0,9.0,Easy,Better Salary,Male,26,ID,Bachelors,Asian or Asian American
+62a9f0172e54c9003e5cdc25,6/15/2022,10:43,0:01:06,Data Analyst,Yes,85000,Tech,Python,5.0,9.0,7.0,7.0,8.0,9.0,Neither easy nor difficult,Better Salary,Female,26,CA,Bachelors,Asian or Asian American
+62a9f8a4cf2555431739d694,6/15/2022,11:20,0:01:23,Data Engineer,No,85000,Education,Python,10.0,10.0,10.0,9.0,9.0,10.0,Difficult,Remote Work,Male,25,GR,Bachelors,Other (Please Specify):Greek
+62aa121dcec54911e9d446cc,6/15/2022,13:08,0:03:23,Data Scientist,Yes,150000,Tech,Python,5.0,3.0,7.0,4.0,5.0,3.0,Easy,Other (Please Specify):Collaboration ,Male,34,US,Bachelors,Black or African American
+62aa1734f3072dd8926c4168,6/15/2022,13:30,0:03:51,Developer,Yes,65000,Finance,DAX,7.0,10.0,10.0,10.0,4.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Female,32,PL,Bachelors,Hispanic or Latino
+62aa21e218134ddc75d8be11,6/15/2022,14:16,0:01:15,Student,No,40000,Construction,R,2.0,2.0,2.0,2.0,2.0,2.0,Difficult,Better Salary,Male,24,US,Associates,Black or African American
+62aa29852e54c9003e5d50b5,6/15/2022,14:48,0:06:20,Data Engineer,Yes,40000,Tech,Python,7.0,3.0,3.0,2.0,5.0,9.0,Difficult,Better Salary,Male,26,AR,Bachelors,Hispanic or Latino
+62aa2f44bc6861bf3180fd06,6/15/2022,15:13,0:02:00,Data Analyst,Yes,65000,Telecommunication,SQL,4.0,7.0,5.0,6.0,4.0,6.0,Difficult,Better Salary,Female,32,Other,Masters,Black or African American
+62aa3454bae91e4b8b8d3249,6/15/2022,15:34,0:02:24,Data Scientist,No,65000,Tech,R,5.0,1.0,7.0,1.0,1.0,2.0,Neither easy nor difficult,Good Work/Life Balance,Male,40,PT,Masters,White or Caucasian
+62aa34e8f3072dd8926c7d56,6/15/2022,15:37,0:01:49,Data Analyst,No,40000,Marketing,Python,0.0,7.0,1.0,6.0,0.0,0.0,Easy,Better Salary,Male,27,US,Bachelors,Black or African American
+62aa356ff8d5efcc22020832,6/15/2022,15:39,0:01:03,Data Analyst,Yes,85000,Tech,R,4.0,3.0,6.0,7.0,4.0,7.0,Easy,Better Salary,Male,28,US,Masters,Black or African American
+62aa3e6824a26260274264da,6/15/2022,16:17,0:02:13,Data Analyst,Yes,40000,Consulting,Python,1.0,9.0,5.0,5.0,1.0,1.0,Difficult,Better Salary,Male,30,NG,Bachelors,Other (Please Specify):Nigeria
+62aa4790f8d5efcc2202266e,6/15/2022,16:56,0:01:10,Data Analyst,Yes,40000,Student,Python,0.0,6.0,5.0,5.0,5.0,6.0,Difficult,Remote Work,Male,37,US,Bachelors,White or Caucasian
+62aa5761bc6861bf318141fc,6/15/2022,18:04,0:02:35,Support,No,65000,Tech,JavaScript,7.0,7.0,5.0,5.0,0.0,0.0,Difficult,Good Culture,Male,32,AU,Bachelors,Asian or Asian American
+62aa5c11f408bae018f7dec0,6/15/2022,18:24,0:02:20,Data Analyst,Yes,65000,Tech,Python,9.0,7.0,10.0,10.0,5.0,8.0,Neither easy nor difficult,Better Salary,Male,24,SA,Bachelors,Other (Please Specify):Arab
+62aa956ef8d5efcc22028e3d,6/15/2022,22:29,0:02:50,Data Analyst,Yes,40000,Tech,Python,6.0,7.0,7.0,7.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,39,AR,Associates,White or Caucasian
+62aa95970a77c1a77f709268,6/15/2022,22:29,0:06:15,Data Analyst,Yes,150000,Finance,Python,6.0,8.0,7.0,4.0,4.0,2.0,Easy,Other (Please Specify):Better Tech Stack,Male,34,AU,Bachelors,Asian or Asian American
+62aa98bfcf255543173adbdc,6/15/2022,22:43,0:01:38,Data Analyst,No,65000,Government,Python,5.0,6.0,10.0,7.0,3.0,3.0,Neither easy nor difficult,Remote Work,Male,27,US,Bachelors,Black or African American
+62aaa387f8d5efcc22029fcb,6/15/2022,23:29,0:01:17,Data Analyst,Yes,85000,Healthcare,SQL,7.0,7.0,4.0,7.0,7.0,7.0,Difficult,Better Salary,Male,54,US,High School,White or Caucasian
+62aaa86bbae91e4b8b8dc832,6/15/2022,23:50,0:01:50,Student,No,40000,Tech,Python,0.0,,,,,,Difficult,Remote Work,Female,20,IN,Bachelors,Asian or Asian American
+62aacd922e54c9003e5e33c2,6/16/2022,2:28,0:01:22,Student,Yes,40000,Finance,SQL,3.0,3.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,IN,Masters,Asian or Asian American
+62aaeecd0f8c8599d5ba6923,6/16/2022,4:50,0:01:42,Student,No,40000,Tech,Python,7.0,7.0,2.0,2.0,7.0,9.0,Easy,Good Work/Life Balance,Male,33,IN,Bachelors,Asian or Asian American
+62aaf8397dc029e2d6773cde,6/16/2022,5:30,0:01:17,Data Analyst,Yes,65000,Tech,Python,4.0,8.0,8.0,8.0,10.0,10.0,Very Easy,Remote Work,Male,30,UK,Masters,White or Caucasian
+62aaff342e54c9003e5e79b8,6/16/2022,6:00,0:12:16,Student,Yes,40000,Tech,Python,0.0,4.0,2.0,0.0,1.0,3.0,Neither easy nor difficult,Better Salary,Male,31,NE,High School,Black or African American
+62ab0bdc575fa3a5ae9413e5,6/16/2022,6:54,0:02:11,Student,Yes,40000,Automotive,Python,5.0,6.0,5.0,6.0,2.0,1.0,Difficult,Remote Work,Male,22,FR,Masters,Other (Please Specify):Arabian (from Maghreb)
+62ab1cb0cec54911e9d5d187,6/16/2022,8:06,0:01:29,Data Analyst,Yes,85000,Tech,R,8.0,10.0,10.0,10.0,8.0,9.0,Neither easy nor difficult,Remote Work,Female,38,US,Bachelors,Black or African American
+62ab3e62bae91e4b8b8ebe14,6/16/2022,10:29,0:02:41,Data Analyst,No,40000,Logistics,Python,6.0,9.0,7.0,7.0,5.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,MY,Bachelors,Other (Please Specify):Malay
+62ab6ab318134ddc75dabb09,6/16/2022,13:38,0:01:20,Data Scientist,Yes,40000,Real Estate,Python,2.0,3.0,4.0,5.0,3.0,6.0,Very Easy,Better Salary,Male,33,IN,Bachelors,Asian or Asian American
+62ab83a7d8c00e9f54263d2e,6/16/2022,15:25,0:01:11,Data Analyst,Yes,65000,Tech,Python,3.0,6.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,27,CA,Bachelors,White or Caucasian
+62ab8bf65d257a28a319e9cb,6/16/2022,16:00,0:02:14,Data Analyst,No,40000,Tech,R,0.0,6.0,3.0,0.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,19,DZ,Bachelors,White or Caucasian
+62abec6cf3072dd8926f2ad0,6/16/2022,22:52,0:01:24,Analyst,No,40000,eCommerce,Python,1.0,6.0,2.0,5.0,1.0,0.0,Neither easy nor difficult,Better Salary,Male,24,IN,Bachelors,Other (Please Specify):Indian
+62abee280f8c8599d5bc246d,6/16/2022,22:59,0:03:50,Director,No,225000,Finance,None,8.0,10.0,9.0,10.0,8.0,10.0,Very Easy,Good Culture,Female,58,US,Masters,White or Caucasian
+62acc1f0cf255543173e59f7,6/17/2022,14:03,0:01:38,Data Analyst,No,40000,Tech,Python,2.0,2.0,5.0,6.0,6.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,NG,Bachelors,Black or African American
+62ace61d575fa3a5ae972d57,6/17/2022,16:37,0:01:26,Data Analyst,No,105000,Tech,Python,4.0,4.0,4.0,4.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,26,IE,Masters,Asian or Asian American
+62acf0890f8c8599d5bdce87,6/17/2022,17:22,0:02:06,Manager,No,65000,Tech,Other,4.0,5.0,4.0,5.0,5.0,3.0,Easy,Good Culture,Female,31,UK,Bachelors,White or Caucasian
+62ad591424a2626027471080,6/18/2022,0:48,0:01:32,Data Analyst,No,65000,Agriculture,Python,2.0,2.0,4.0,5.0,1.0,1.0,Neither easy nor difficult,Better Salary,Male,23,US,High School,Hispanic or Latino
+62ade22318134ddc75de385f,6/18/2022,10:33,0:01:20,Data Analyst,No,105000,Healthcare,Python,7.0,10.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Remote Work,Female,31,US,Masters,Asian or Asian American
+62adf26f18134ddc75de4bb4,6/18/2022,11:42,0:01:47,Student,No,85000,Construction,Other,5.0,5.0,7.0,7.0,9.0,10.0,Difficult,Better Salary,Female,24,US,Bachelors,Asian or Asian American
+62ae680024a2626027483ebc,6/18/2022,20:04,0:02:05,Data Engineer,Yes,65000,Finance,Python,8.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,29,MX,Bachelors,Hispanic or Latino
+62aee103f8f756164595adb8,6/19/2022,4:40,0:01:20,Student,Yes,40000,Education,Python,7.0,8.0,9.0,8.0,9.0,10.0,Difficult,Good Work/Life Balance,Male,26,ID,Bachelors,Asian or Asian American
+62af07be7dc029e2d67cc3c8,6/19/2022,7:25,0:01:52,Student,Yes,40000,Sustainability,Python,3.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Better Salary,Male,20,IN,High School,Asian or Asian American
+62af10295d257a28a31e6ff8,6/19/2022,8:01,0:01:24,Data Analyst,Yes,40000,Education,Python,0.0,2.0,3.0,2.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,23,IN,Bachelors,Asian or Asian American
+62af387018134ddc75df894e,6/19/2022,10:53,0:01:47,Data Analyst,No,125000,Tech,Python,8.0,8.0,9.0,8.0,7.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,33,US,Masters,White or Caucasian
+62af49025d257a28a31eb2f1,6/19/2022,12:04,0:01:40,Student,Yes,40000,Tech,Python,2.0,3.0,3.0,5.0,5.0,9.0,Easy,Remote Work,Male,26,NG,Bachelors,Black or African American
+62af53ce0f8c8599d5c04934,6/19/2022,12:50,0:03:57,Data Analyst,Yes,40000,Consulting,R,3.0,9.0,8.0,8.0,6.0,6.0,Difficult,Better Salary,Male,27,IN,Bachelors,Asian or Asian American
+62af6371f8d5efcc2208e923,6/19/2022,13:57,0:02:21,Student,No,40000,Agriculture,SQL,0.0,8.0,8.0,8.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,22,UZ,Bachelors,Asian or Asian American
+62af9ed7f3072dd892739279,6/19/2022,18:10,0:02:06,Data Analyst,Yes,40000,Tech,Python,3.0,9.0,9.0,6.0,9.0,4.0,Easy,Better Salary,Male,23,Other,Masters,White or Caucasian
+62b152960f8c8599d5c31550,6/21/2022,1:09,0:01:54,Analyst,Yes,40000,Food & Beverage,Python,3.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,28,MX,Bachelors,Hispanic or Latino
+62b16a5c5d257a28a321a74c,6/21/2022,2:51,0:02:28,Data Analyst,No,65000,Finance,SQL,7.0,5.0,4.0,6.0,4.0,5.0,Easy,Good Work/Life Balance,Female,39,PT,Masters,White or Caucasian
+62b21d40bae91e4b8b985154,6/21/2022,15:34,0:03:25,Manager,No,125000,Transportation,Python,3.0,2.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,37,US,Masters,White or Caucasian
+62b27004bc6861bf318c9038,6/21/2022,21:27,0:01:33,Database Developer,Yes,65000,Education,SQL,4.0,7.0,7.0,7.0,7.0,7.0,Difficult,Better Salary,Female,29,US,Masters,White or Caucasian
+62b2ea87f8d5efcc220e3e21,6/22/2022,6:10,0:01:24,Data Analyst,Yes,125000,Finance,Python,5.0,6.0,6.0,5.0,4.0,3.0,Easy,Good Work/Life Balance,Male,42,US,Masters,White or Caucasian
+62b35284cec54911e9e1818c,6/22/2022,13:33,0:01:11,Student,No,40000,Tech,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Female,25,CA,Bachelors,Asian or Asian American
+62b4404df31287f32e14d1c1,6/23/2022,6:28,0:01:20,Database Developer,Yes,40000,Telecommunication,Python,5.0,5.0,5.0,5.0,4.0,5.0,Easy,Better Salary,Male,66,MA,High School,Black or African American
+62b525563f28f20328aeee5c,6/23/2022,22:45,0:00:50,Data Analyst,Yes,150000,Retail,R,8.0,5.0,6.0,6.0,5.0,7.0,Easy,Better Salary,Male,26,US,Bachelors,White or Caucasian
+62b5a3e29bc428d5345f6e89,6/24/2022,7:45,0:03:12,Data Scientist,No,40000,Manufacturing,R,4.0,6.0,7.0,7.0,4.0,6.0,Difficult,Better Salary,Male,21,US,Bachelors,White or Caucasian
+62b71083f31287f32e189026,6/25/2022,9:41,0:04:43,Student,Yes,40000,Tech,Python,1.0,2.0,1.0,2.0,1.0,2.0,Difficult,Better Salary,Male,26,Other,Bachelors,Asian or Asian American
+62b795033b026e423f287ecd,6/25/2022,19:06,0:02:17,Data Engineer,No,40000,Tech,Python,6.0,6.0,6.0,6.0,4.0,3.0,Easy,Other (Please Specify):Career Advancedment,Male,24,CR,Bachelors,Hispanic or Latino
+62b89039377223ff07b80fb5,6/26/2022,12:58,0:01:19,Data Analyst,No,65000,Automotive,Python,8.0,7.0,6.0,7.0,6.0,8.0,Easy,Remote Work,Male,22,US,Bachelors,Asian or Asian American
